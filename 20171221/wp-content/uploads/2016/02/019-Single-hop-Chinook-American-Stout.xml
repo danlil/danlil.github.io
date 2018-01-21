@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<RECIPE>
+ <NAME>019 - Single-hop Chinook American Stout</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>All Grain</TYPE>
+ <BREWER>Dan</BREWER>
+ <ASST_BREWER></ASST_BREWER>
+ <BATCH_SIZE>7.0000000</BATCH_SIZE>
+ <BOIL_SIZE>11.5500000</BOIL_SIZE>
+ <BOIL_TIME>90.0000000</BOIL_TIME>
+ <EFFICIENCY>72.0000000</EFFICIENCY>
+ <HOPS>
+<HOP>
+ <NAME>Chinook</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>12.7000000</ALPHA>
+ <AMOUNT>0.0080000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>60.0000000</TIME>
+ <NOTES>Strong versatile bittering hop
+Used for: Ales, porters, stouts
+Aroma: Heavy and spicy aroma
+Substitutes: Galena, Eroica, Nugget, Bullion
+Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</NOTES>
+ <TYPE>Bittering</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>3.6000000</BETA>
+ <HSI>42.0000000</HSI>
+ <DISPLAY_AMOUNT>8.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Chinook</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>12.7000000</ALPHA>
+ <AMOUNT>0.0100000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>10.0000000</TIME>
+ <NOTES>Strong versatile bittering hop
+Used for: Ales, porters, stouts
+Aroma: Heavy and spicy aroma
+Substitutes: Galena, Eroica, Nugget, Bullion
+Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</NOTES>
+ <TYPE>Bittering</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>3.6000000</BETA>
+ <HSI>42.0000000</HSI>
+ <DISPLAY_AMOUNT>10.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Chinook</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>12.7000000</ALPHA>
+ <AMOUNT>0.0080000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>5.0000000</TIME>
+ <NOTES>Strong versatile bittering hop
+Used for: Ales, porters, stouts
+Aroma: Heavy and spicy aroma
+Substitutes: Galena, Eroica, Nugget, Bullion
+Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</NOTES>
+ <TYPE>Bittering</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>3.6000000</BETA>
+ <HSI>42.0000000</HSI>
+ <DISPLAY_AMOUNT>8.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Chinook</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>12.7000000</ALPHA>
+ <AMOUNT>0.0080000</AMOUNT>
+ <USE>Dry Hop</USE>
+ <TIME>10080.0000000</TIME>
+ <NOTES>Strong versatile bittering hop
+Used for: Ales, porters, stouts
+Aroma: Heavy and spicy aroma
+Substitutes: Galena, Eroica, Nugget, Bullion
+Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</NOTES>
+ <TYPE>Bittering</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>3.6000000</BETA>
+ <HSI>42.0000000</HSI>
+ <DISPLAY_AMOUNT>8.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+</HOP>
+</HOPS>
+
+ <FERMENTABLES>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU PALE ALE</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>1.4766485</AMOUNT>
+ <YIELD>81.0000000</YIELD>
+ <COLOR>8.4710000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: Belgian light-coloured base malt. Kilning at up to 90-95&#176;C.
+
+Characteristics: Usually used as a base malt or in combination with Pilsen 2RS malt
+to impart a richer malt flavour and additional colour. Being deeper in colour, this
+malt can add a golden hue to the wort. It is used with strong yeasts to produce
+amber and bitter beers. Ch&#226;teau Pale Ale malt is kilned longer and is usually better
+modified, providing a more pronounced flavour than Pilsen 2RS. The enzymatic
+activity of Ch&#226;teau Pale Ale malt is sufficient when used with large proportion of
+non-enzymatic specialty malts.
+
+Usage: Pale ale styles and bitter beers, most traditional English beer styles.
+
+7 &#8211; 10 EBC (European Brewing Convention)
+3.2 &#8211; 4.3&#176;L (Lovibond)
+
+%: Up to 100% of the mix
+
+Moisture % 4.5
+
+Extract (dry basis) % 81.0
+
+Difference fine &#8211; coarse % 1.0-2.5
+
+Wort colour EBC (&#176;L) 7.0 (3.2) 10.0 (4.3)
+
+Total Protein (dry malt) % 11.5
+
+Soluble protein % 4.0 4.6
+
+Kolbach Index % 38.0 45.0
+
+Viscosity cp 1.60
+
+Diastatic power WK 250
+
+Friability % 80.0
+
+NDMA ppb 2.5
+</NOTES>
+ <COARSE_FINE_DIFF>1.7000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>250.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.5000000</PROTEIN>
+ <MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>1.48 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0372600</POTENTIAL>
+ <DISPLAY_COLOR>8.5 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU CHIT WHEAT MALT FLAKES</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.1785622</AMOUNT>
+ <YIELD>50.0000000</YIELD>
+ <COLOR>4.9250000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: Flattened grains of chit wheat malt - lightly kilned type of malt produced from steeped wheat that has been germinating for a very short period of time.
+
+Characteristics: Chit wheat malt flakes retain many of the characteristics of raw wheat and are used to improve foam stability and balance malt with high solubility. The flakes can be added directly into the mash.
+
+Usage: Any type of beer.
+
+3 &#8211;7 EBC (European Brewing Convention)
+1.7 &#8211;3.2&#176;L (Lovibond)
+
+Moisture % 11.0
+
+Wortcolour EBC (&#176;L) 3 (1.7)-7 (3.2)
+
+Total Protein (dry malt) % 12.0</NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>11.0000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>12.0000000</PROTEIN>
+ <MAX_IN_BATCH>25.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.18 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0230000</POTENTIAL>
+ <DISPLAY_COLOR>4.9 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU CARA CLAIR</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.1772824</AMOUNT>
+ <YIELD>78.0000000</YIELD>
+ <COLOR>5.5160000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: The palest Belgian Caramel malt produced according to a special malting process.
+
+Characteristics: Ch&#226;teau Cara Clair is a type of Belgian caramel malt. Intensifies the beer&#8217;s body and its smoothness, promotes head formation and retention. Creates soft biscuit notes in the beer aroma.
+
+Usage: Pilsner Lager, alcohol-reduced beer, light beer, Bock beer.
+
+3 &#8211; 7 EBC (European Brewing Convention)
+1.7 &#8211; 3.2 &#176;L (Lovibond)
+
+%: Up to 5% of the mix
+
+Moisture % 8.5
+
+Extract (dry basis) % 78.0
+
+Wort colour EBC (&#176;L) 3.0 (1.7) 7.0 (3.2)
+
+Total Protein (dry malt) % 11.5
+
+Saccharification time min normal
+</NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>8.5000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.5000000</PROTEIN>
+ <MAX_IN_BATCH>5.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.18 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0358800</POTENTIAL>
+ <DISPLAY_COLOR>5.5 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU ROASTED BARLEY</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.1331277</AMOUNT>
+ <YIELD>65.0000000</YIELD>
+ <COLOR>1200.9120000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: Raw roasted barley. Torrefied up to 230 &#186;C. The length of roasting time determines the darkness of the grain.
+
+Characteristics: Ch&#226;teau Roasted Barley is a highly roasted barley that imparts a burnt, grainy, coffee-like flavor to your beer. It has many characteristics of Ch&#226;teau Black malt, though it is far more complex. It actually has some starch that can be converted during the mash, thus impacting the specific gravity. Ch&#226;teau Roasted Barley will also lend to the sweetness to the beer. If compared to Ch&#226;teau Chocolat and Ch&#226;teau Black malts, roasted barley produces the lightest colored head. Imparts a deep red mahogany color to beer and very strong roasted flavor. Gives dryness to Porters and Stouts.
+
+Usage: Stouts, Porters, Nut Brown Ales and other dark beer styles. 2-4% in Brown ales, or 3-10% in Porters and Stouts.
+
+1200 EBC (European Brewing Convention)
+450.6&#176;L (Lovibond)
+
+Moisture % 4.5
+
+Extract (dry basis) % 65.0
+
+Wortcolour EBC (&#176;L) 1000 (375.6)
+                                     1300 (488.1)</NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>0.0000000</PROTEIN>
+ <MAX_IN_BATCH>5.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.13 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0299000</POTENTIAL>
+ <DISPLAY_COLOR>1200.9 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU CARA GOLD&#174;</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.0798766</AMOUNT>
+ <YIELD>78.0000000</YIELD>
+ <COLOR>119.9927000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: A dark Belgian caramel-style malt. High temperature of germination.
+Taste development at up to 220&#176;C, intense aroma.
+
+Characteristics: Ch&#226;teau Cara Gold&#174; malt imparts a strong caramel-sweet aroma
+and unique toffee-like flavour, adding a rich amber colour to beer. A
+distinguishing characteristic of all caramel malts is glassiness. This glassy
+endosperm creates the desirable non-fermentable components that give true
+caramel malt the ability to contribute mouthfeel, head, head retention, and
+extended beer stability.
+
+Usage: Brown and dark beers.
+
+120 EBC  (European Brewing Convention)
+45.6&#176;L (Lovibond)
+
+%: Up to 20% of the mix 
+
+Moisture % 8.0
+
+Extract (dry basis) % 78.0
+
+Wort colour EBC (&#176;L) 110.0 (41.8) 130.0 (49.3)
+
+Saccharification time min normal
+</NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>8.0000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>0.0000000</PROTEIN>
+ <MAX_IN_BATCH>20.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.08 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0358800</POTENTIAL>
+ <DISPLAY_COLOR>120.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU CHOCOLAT</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.0585762</AMOUNT>
+ <YIELD>75.0000000</YIELD>
+ <COLOR>900.6840000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: Belgian chocolate malt. Torrefied at 220&#176;C and then quickly cooled when the desired colour is reached.
+
+Characteristics: Ch&#226;teau Chocolat malt is a highly roasted malt with a deep brown colour. This is where its name comes from. Ch&#226;teau Chocolat malt is used to adjust the colour of beer and imparts a nutty, toasted flavour. Ch&#226;teau Chocolat malt shares many of the characteristics of Black Malt but provides a less bitter flavour than Black malt and is lighter than Black, because it is roasted for a slightly shorter period of time and the end temperatures are not so high.
+
+Usage: Brown, strong, darker and black beers, such as porters, stouts and brown ales. Up to 7% of the mix.
+
+900 EBC (European Brewing Convention)
+338.1&#176;L (Lovibond)
+
+Moisture % 4.5
+
+Extract (dry basis) % 75.0
+
+Wortcolour EBC (&#176;L) 800.0 (300.6)
+
+                                    1000.0 (375.6)</NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>0.0000000</PROTEIN>
+ <MAX_IN_BATCH>7.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.06 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0345000</POTENTIAL>
+ <DISPLAY_COLOR>900.7 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+</FERMENTABLES>
+
+ 
+ <YEASTS>
+<YEAST>
+ <NAME>Nottingham</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Ale</TYPE>
+ <FORM>Dry</FORM>
+ <AMOUNT>0.0236590</AMOUNT>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <LABORATORY>Danstar</LABORATORY>
+ <PRODUCT_ID>-</PRODUCT_ID>
+ <MIN_TEMPERATURE>13.8888889</MIN_TEMPERATURE>
+ <MAX_TEMPERATURE>21.1111111</MAX_TEMPERATURE>
+ <FLOCCULATION>High</FLOCCULATION>
+ <ATTENUATION>75.0000000</ATTENUATION>
+ <NOTES>Dry strain is highly flocculant and has high attenuation.  Produces relatively few fruity esters for a dry yeast. Can be fermented at low temperature to produce lager-style beers.</NOTES>
+ <BEST_FOR>Good neutral ale yeast.</BEST_FOR>
+ <MAX_REUSE>5</MAX_REUSE>
+ <TIMES_CULTURED>0</TIMES_CULTURED>
+ <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+ <DISPLAY_AMOUNT>23.66 ml</DISPLAY_AMOUNT>
+ <DISP_MIN_TEMP>13.9 C</DISP_MIN_TEMP>
+ <DISP_MAX_TEMP>21.1 C</DISP_MAX_TEMP>
+ <INVENTORY>0.0 pkg</INVENTORY>
+ <CULTURE_DATE>14/06/03</CULTURE_DATE>
+</YEAST>
+</YEASTS>
+
+ 
+ <STYLE>
+ <NAME>American Stout</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Stout</CATEGORY>
+ <CATEGORY_NUMBER>13</CATEGORY_NUMBER>
+ <STYLE_LETTER>E</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2008</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.0500000</OG_MIN>
+ <OG_MAX>1.0750000</OG_MAX>
+ <FG_MIN>1.0100000</FG_MIN>
+ <FG_MAX>1.0220000</FG_MAX>
+ <IBU_MIN>35.0000000</IBU_MIN>
+ <IBU_MAX>75.0000000</IBU_MAX>
+ <COLOR_MIN>59.1000000</COLOR_MIN>
+ <COLOR_MAX>78.8000000</COLOR_MAX>
+ <CARB_MIN>2.3000000</CARB_MIN>
+ <CARB_MAX>2.9000000</CARB_MAX>
+ <ABV_MAX>7.0000000</ABV_MAX>
+ <ABV_MIN>5.0000000</ABV_MIN>
+ <NOTES>A hoppy, bitter, strongly roasted Foreignstyle Stout (of the export variety). Breweries express individuality through varying the roasted malt profile, malt sweetness and flavor, and the amount of finishing hops used. Generally has bolder roasted malt flavors and hopping than other traditional stouts (except Imperial Stouts).</NOTES>
+ <PROFILE>Aroma: Moderate to strong aroma of roasted malts, often having a roasted coffee or dark chocolate quality. Burnt or charcoal aromas are low to none. Medium to very low hop aroma, often with a citrusy or resiny American hop character. Esters are optional, but can be present up to medium intensity. Light alcohol-derived aromatics are also optional. No diacetyl.
+Appearance: Generally a jet black color, although some may appear very dark brown. Large, persistent head of light tan to light brown in color. Usually opaque.
+Flavor: Moderate to very high roasted malt flavors, often tasting of coffee, roasted coffee beans, dark or bittersweet chocolate. May have a slightly burnt coffee ground flavor, but this character should not be prominent if present. Low to medium malt sweetness, often with rich chocolate or caramel flavors. Medium to high bitterness. Hop flavor can be low to high, and generally reflects citrusy or resiny American varieties. Light esters may be present but are not required. Medium to dry finish, occasionally with a light burnt quality. Alcohol flavors can be present up to medium levels, but smooth. No diacetyl.
+Mouthfeel: Medium to full body. Can be somewhat creamy, particularly if a small amount of oats have been used to enhance mouthfeel. Can have a bit of roast-derived astringency, but this character should not be excessive. Medium-high to high carbonation. Light to moderately strong alcohol warmth, but smooth and not excessively hot.</PROFILE>
+ <INGREDIENTS>Common American base malts and yeast.  Varied use of dark and roasted malts, as well as caramel-type malts.  Adjuncts such as oatmeal may be present in low quantities.  American hop varieties.</INGREDIENTS>
+ <EXAMPLES>Rogue Shakespeare Stout, Deschutes Obsidian Stout, Sierra Nevada Stout, North Coast Old No. 38, Bar Harbor Cadillac Mountain Stout, Avery Out of Bounds Stout, Lost Coast 8 Ball Stout, Mad River Steelhead Extra Stout</EXAMPLES>
+ <DISPLAY_OG_MIN>1.050 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.075 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.010 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.022 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>59.1 EBC</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>78.8 EBC</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1,050-1,075 SG</OG_RANGE>
+ <FG_RANGE>1,010-1,022 SG</FG_RANGE>
+ <IBU_RANGE>35,0-75,0 IBUs</IBU_RANGE>
+ <CARB_RANGE>2,30-2,90 Vols</CARB_RANGE>
+ <COLOR_RANGE>59,1-78,8 EBC</COLOR_RANGE>
+ <ABV_RANGE>5,00-7,00 %</ABV_RANGE>
+</STYLE>
+
+ <EQUIPMENT>
+ <NAME>Kjele (13 L)</NAME>
+ <VERSION>1</VERSION>
+ <BOIL_SIZE>11.5500000</BOIL_SIZE>
+ <BATCH_SIZE>7.0000000</BATCH_SIZE>
+ <TUN_VOLUME>13.0000000</TUN_VOLUME>
+ <TUN_WEIGHT>1.6999989</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <TOP_UP_WATER>0.0000000</TOP_UP_WATER>
+ <TRUB_CHILLER_LOSS>0.5000000</TRUB_CHILLER_LOSS>
+ <EVAP_RATE>21.6450217</EVAP_RATE>
+ <BOIL_TIME>90.0000000</BOIL_TIME>
+ <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+ <LAUTER_DEADSPACE>0.3000000</LAUTER_DEADSPACE>
+ <TOP_UP_KETTLE>0.0000000</TOP_UP_KETTLE>
+ <HOP_UTILIZATION>100.0000000</HOP_UTILIZATION>
+ <COOLING_LOSS_PCT>4.0000000</COOLING_LOSS_PCT>
+ <NOTES>Kjele for &#229; lage 6 liter med &#248;l; nok til en kasse med 12 stk. 0,5 liters flasker.</NOTES>
+ <DISPLAY_BOIL_SIZE>11.55 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_BATCH_SIZE>7.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_TUN_VOLUME>13.00 l</DISPLAY_TUN_VOLUME>
+ <DISPLAY_TUN_WEIGHT>1.70 kg</DISPLAY_TUN_WEIGHT>
+ <DISPLAY_TOP_UP_WATER>0.00 l</DISPLAY_TOP_UP_WATER>
+ <DISPLAY_TRUB_CHILLER_LOSS>0.50 l</DISPLAY_TRUB_CHILLER_LOSS>
+ <DISPLAY_LAUTER_DEADSPACE>0.30 l</DISPLAY_LAUTER_DEADSPACE>
+ <DISPLAY_TOP_UP_KETTLE>0.00 l</DISPLAY_TOP_UP_KETTLE>
+</EQUIPMENT>
+
+ <MASH>
+ <NAME>Temperature Mash, 1 Step, Light Body</NAME>
+ <VERSION>1</VERSION>
+ <GRAIN_TEMP>22.2222222</GRAIN_TEMP>
+ <TUN_TEMP>22.2222222</TUN_TEMP>
+ <SPARGE_TEMP>75.5555556</SPARGE_TEMP>
+ <PH>5.4000000</PH>
+ <TUN_WEIGHT>59.9657456</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+ <NOTES>Temperature mash for use when mashing in a brew pot over a heat source such as the stove.  Use heat to maintain desired temperature during the mash.</NOTES>
+ <DISPLAY_GRAIN_TEMP>22.2 C</DISPLAY_GRAIN_TEMP>
+ <DISPLAY_TUN_TEMP>22.2 C</DISPLAY_TUN_TEMP>
+ <DISPLAY_SPARGE_TEMP>75.6 C</DISPLAY_SPARGE_TEMP>
+ <DISPLAY_TUN_WEIGHT>1.70 kg</DISPLAY_TUN_WEIGHT>
+<MASH_STEPS>
+<MASH_STEP>
+ <NAME>Saccharification</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>6.3122251</INFUSE_AMOUNT>
+ <STEP_TIME>60.0000000</STEP_TIME>
+ <STEP_TEMP>65.0000000</STEP_TEMP>
+ <RAMP_TIME>0.0000000</RAMP_TIME>
+ <END_TEMP>65.0000000</END_TEMP>
+ <DESCRIPTION>Add 6,31 l of water at 70,4 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>3,000 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>70.4 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>65.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>6.31 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Mash Out</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Temperature</TYPE>
+ <INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>5.0000000</STEP_TIME>
+ <STEP_TEMP>77.0000000</STEP_TEMP>
+ <RAMP_TIME>10.0000000</RAMP_TIME>
+ <END_TEMP>77.0000000</END_TEMP>
+ <DESCRIPTION>Heat to 77,0 C over 10 min</DESCRIPTION>
+ <WATER_GRAIN_RATIO>3,000 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>77.0 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>77.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+</MASH_STEPS>
+
+</MASH>
+
+ <NOTES></NOTES>
+ <TASTE_NOTES></TASTE_NOTES>
+ <TASTE_RATING>30.0000000</TASTE_RATING>
+ <OG>1.0610000</OG>
+ <FG>0.0000000</FG>
+ <CARBONATION>2.3000000</CARBONATION>
+ <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+ <PRIMARY_AGE>4.0000000</PRIMARY_AGE>
+ <PRIMARY_TEMP>19.4444444</PRIMARY_TEMP>
+ <SECONDARY_AGE>10.0000000</SECONDARY_AGE>
+ <SECONDARY_TEMP>19.4444444</SECONDARY_TEMP>
+ <TERTIARY_AGE>7.0000000</TERTIARY_AGE>
+ <AGE>30.0000000</AGE>
+ <AGE_TEMP>18.3333333</AGE_TEMP>
+ <CARBONATION_USED>Bottle with 32,11 g Table Sugar</CARBONATION_USED>
+ <FORCED_CARBONATION>TRUE</FORCED_CARBONATION>
+ <PRIMING_SUGAR_NAME>Table Sugar</PRIMING_SUGAR_NAME>
+ <PRIMING_SUGAR_EQUIV>0.9099181</PRIMING_SUGAR_EQUIV>
+ <KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
+ <CARBONATION_TEMP>21.1111111</CARBONATION_TEMP>
+ <DISPLAY_CARB_TEMP>21.1 C</DISPLAY_CARB_TEMP>
+ <DATE>12/02/16</DATE>
+ <EST_OG>1.064 SG</EST_OG>
+ <EST_FG>1.012 SG</EST_FG>
+ <EST_COLOR>84.4 EBC</EST_COLOR>
+ <IBU>61.1 IBUs</IBU>
+ <IBU_METHOD>Tinseth</IBU_METHOD>
+ <EST_ABV>6.8 %</EST_ABV>
+ <ABV>0.0 %</ABV>
+ <ACTUAL_EFFICIENCY>73.7 %</ACTUAL_EFFICIENCY>
+ <CALORIES>0.0 kcal/l</CALORIES>
+ <DISPLAY_BATCH_SIZE>7.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_BOIL_SIZE>11.55 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_OG>1.061 SG</DISPLAY_OG>
+ <DISPLAY_FG>0.000 SG</DISPLAY_FG>
+ <DISPLAY_PRIMARY_TEMP>19.4 C</DISPLAY_PRIMARY_TEMP>
+ <DISPLAY_SECONDARY_TEMP>19.4 C</DISPLAY_SECONDARY_TEMP>
+ <DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
+ <DISPLAY_AGE_TEMP>18.3 C</DISPLAY_AGE_TEMP>
+</RECIPE>
+</RECIPES>
