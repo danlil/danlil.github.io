@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<RECIPE>
+ <NAME>038 - Quasimodo&#39;s Quadrupel</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>All Grain</TYPE>
+ <BREWER>Dan</BREWER>
+ <ASST_BREWER></ASST_BREWER>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <BOIL_SIZE>28.0000000</BOIL_SIZE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <EFFICIENCY>73.0000000</EFFICIENCY>
+ <HOPS>
+<HOP>
+ <NAME>Perle</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>Germany</ORIGIN>
+ <ALPHA>8.0000000</ALPHA>
+ <AMOUNT>0.0500000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>60.0000000</TIME>
+ <NOTES>Perle has a spciy character, and the aroma is moderate and pleasing. Commonly compared to Hallertau Mittlefruh.
+Used for: German ales, lagers, Plisner, Alt, Maisbier, Dunkle, Kolsch
+Aroma: Delicate floral and fruity tones
+Substitutes: Northern Brewer, Perle (U.S.), Hallertau Mittelfruh, Hallertau Aroma
+Storage: Good
+6-10% AA / 2.5-5% Beta</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>4.7500000</BETA>
+ <HSI>25.0000000</HSI>
+ <DISPLAY_AMOUNT>50.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Northern Brewer</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>Germany</ORIGIN>
+ <ALPHA>8.5000000</ALPHA>
+ <AMOUNT>0.0200000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>15.0000000</TIME>
+ <NOTES>Also called Hallertauer Northern Brewers
+Used for: Bittering and finishing both ales and lagers of all kinds
+Aroma: Fine, dry, clean bittering hop.  Unique flavor.
+Substitutes: Hallertauer Mittelfrueh, Hallertauer
+Examples: Anchor Steam, Old Peculiar, </NOTES>
+ <TYPE>Both</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>4.0000000</BETA>
+ <HSI>35.0000000</HSI>
+ <DISPLAY_AMOUNT>20.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>15.0 min</DISPLAY_TIME>
+</HOP>
+</HOPS>
+
+ <FERMENTABLES>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU PILSEN 2RS</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>5.7999963</AMOUNT>
+ <YIELD>81.0000000</YIELD>
+ <COLOR>2.9550000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: The lightest coloured Belgian malt. Produced from the finest European
+malting barley varieties. Kilned at up to 80 - 85&#176;C.
+
+Characteristics: The lightest in colour, this malt is well modified and can be easily
+mashed with a single-temperature infusion. Our Ch&#226;teau Pilsen malt carries a
+strong, sweet malt flavour and contains enough enzymatic power to be used as base
+malt.
+
+Usage: All beer types 
+
+%:  Up to 100% of the mix
+
+2.5 &#8211; 3.5 EBC (European Brewing Convention)
+1.5 &#8211; 1.9&#176;L (Lovibond)
+
+Moisture % 4.5
+
+Extract (dry basis) % 81.0
+
+Difference fine &#8211; coarse % 1.5-2.5
+
+Wort colour EBC (&#176;L) 3.5 (1.9)
+
+Post coloration EBC (&#176;L) 4.0 (2.1)- 6.0 (2.8)
+
+Total Protein (dry malt) % 11.2
+
+Soluble protein % 3.5-4.4
+
+Kolbach Index % 35.0-45.0
+
+Hartong 45&#176; % 34.0-43.0
+
+Viscosity cp 1.6
+
+Ph 5.6-6.0
+
+Diastatic power WK 250
+
+Friability % 81.0
+
+Glassiness (whole grains) % 2.5
+
+PDMS 5.0
+
+NDMA ppb 2.5
+
+Filtration normal
+
+Saccharification time min 15
+
+Clarity of wort clear
+
+
+</NOTES>
+ <COARSE_FINE_DIFF>2.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>250.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.2000000</PROTEIN>
+ <MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>5.80 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0372600</POTENTIAL>
+ <DISPLAY_COLOR>3.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU CAF&#201;</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.5999996</AMOUNT>
+ <YIELD>75.5000000</YIELD>
+ <COLOR>500.3800000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: Belgian coffee malt. Taste development at up to 200&#176;C.
+
+Characteristics: Ch&#226;teau Caf&#233; malt imparts a nutty and light to reach coffee flavour and aroma to beers, brings in a &#34;coffee&#34; note in Stouts and Porters. Adds a smooth mouth feel and complexity to any dark ale. Reinforces the colour of the beer.
+
+Usage: Stouts, porters, Scottish ale, dark Belgian style beer, slightly in brown ales for hints of fresh roasted coffee; Up to 10% of the mix.
+
+500 EBC (European Brewing Convention)
+94.3 &#176;L &#38; 188.1&#176;L (Lovibond)
+
+Moisture % 4.5
+
+Extract (dry basis) % 75.5
+
+Wortcolour EBC (&#176;L) 420.0 (158.1)
+                                    520.0 (195.6)</NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>0.0000000</PROTEIN>
+ <MAX_IN_BATCH>10.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.60 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0347300</POTENTIAL>
+ <DISPLAY_COLOR>500.4 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU BISCUIT&#174;</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.2999998</AMOUNT>
+ <YIELD>77.0000000</YIELD>
+ <COLOR>49.9986000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: Unique and very special Belgian malt. Lightly kilned, then lightly torrefied at up to 160&#176;C.
+
+Characteristics: Ch&#226;teau Biscuit&#174; malt produces a very pronounced &#34;toasty&#34; finish in the beer. Imparts a warm bread and biscuit-like aroma and flavour. Promotes a light to medium warm brown colour of the mash. This malt is used to improve the roasted flavour and aroma that characterize ales and lagers lending the subtle properties of black and chocolate malts. No enzymes. Must be mashed with malts having a surplus of diastatic power.
+
+Usage: All special beers and as well for English ales, brown ales and porters. Up to 15% of the mix.
+
+50EBC (European Brewing Convention)
+19.3&#176;L (Lovibond)
+
+Moisture % 4.7
+
+Extract (dry basis) % 77.0
+
+Wortcolour EBC (&#176;L) 45.0 (17.4)
+                                     55.0 (21.2)</NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.7000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>0.0000000</PROTEIN>
+ <MAX_IN_BATCH>15.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.30 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0354200</POTENTIAL>
+ <DISPLAY_COLOR>50.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU SPECIAL B&#174;</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.2999998</AMOUNT>
+ <YIELD>77.0000000</YIELD>
+ <COLOR>300.2280000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: Very special Belgian dark malt, obtained through specific double roasting process.
+
+Characteristics: Is used to produce a deep red to dark brown-black colour and fuller body. Unique flavour and aroma. Gives much colour and raisin-like flavour. Imparts a rich malty taste and a hint of nut and plum flavour. May substitute Chocolate and Black malt if bitterness is not desired.
+
+Usage: Abbey ales, dubbels, porters, brown ales, doppelbocks. Up to 10% of the mix.
+
+300 EBC (European Brewing Convention)
+113.1&#176;L (Lovibond)
+
+Moisture % 8.0
+
+Extract (dry basis) % 77.0
+
+Wortcolour EBC (&#176;L) 260.0 (98.1)
+                                     320.0 (120.6)</NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>8.0000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>0.0000000</PROTEIN>
+ <MAX_IN_BATCH>10.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.30 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0354200</POTENTIAL>
+ <DISPLAY_COLOR>300.2 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Sugar, Table (Sucrose)</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Sugar</TYPE>
+ <AMOUNT>2.7999982</AMOUNT>
+ <YIELD>100.0000000</YIELD>
+ <COLOR>1.9700000</COLOR>
+ <ADD_AFTER_BOIL>TRUE</ADD_AFTER_BOIL>
+ <ORIGIN>US</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>White table sugar, or sucrose primarily is used to increase alcohol. Using too much will add a cider flavor to beer.</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.0000000</MOISTURE>
+ <DIASTATIC_POWER>120.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.7000000</PROTEIN>
+ <MAX_IN_BATCH>10.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>FALSE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>2.80 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0460000</POTENTIAL>
+ <DISPLAY_COLOR>2.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+</FERMENTABLES>
+
+ <MISCS>
+<MISC>
+ <NAME>Whirlfloc Tablet</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Fining</TYPE>
+ <USE>Boil</USE>
+ <AMOUNT>0.500000</AMOUNT>
+ <TIME>15.00</TIME>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <USE_FOR>Clarity</USE_FOR>
+ <NOTES>Aids in clearing yeast and chill haze.  Easy to use tablet form.</NOTES>
+ <DISPLAY_AMOUNT>0.50 Items</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 Items</INVENTORY>
+ <DISPLAY_TIME>15.0 mins</DISPLAY_TIME>
+ <BATCH_SIZE>18.93 l</BATCH_SIZE>
+</MISC>
+</MISCS>
+
+ <YEASTS>
+<YEAST>
+ <NAME>Belgian Strong Ale Yeast</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Ale</TYPE>
+ <FORM>Liquid</FORM>
+ <AMOUNT>0.0502753</AMOUNT>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <LABORATORY>White Labs</LABORATORY>
+ <PRODUCT_ID>WLP545</PRODUCT_ID>
+ <MIN_TEMPERATURE>18.3333333</MIN_TEMPERATURE>
+ <MAX_TEMPERATURE>22.7777778</MAX_TEMPERATURE>
+ <FLOCCULATION>Medium</FLOCCULATION>
+ <ATTENUATION>81.5000000</ATTENUATION>
+ <NOTES>From the Ardennes region of Belgium, this classic strain produces moderate esters and spicy phenolic character.  Results in a dry but balanced finish.  Use for dark or strong abbey ales.</NOTES>
+ <BEST_FOR>Belgian dark strongs, Abbey ales and Christmas beers</BEST_FOR>
+ <MAX_REUSE>5</MAX_REUSE>
+ <TIMES_CULTURED>0</TIMES_CULTURED>
+ <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+ <DISPLAY_AMOUNT>50.28 ml</DISPLAY_AMOUNT>
+ <DISP_MIN_TEMP>18.3 C</DISP_MIN_TEMP>
+ <DISP_MAX_TEMP>22.8 C</DISP_MAX_TEMP>
+ <INVENTORY>0.0 pkg</INVENTORY>
+ <CULTURE_DATE>06/03/11</CULTURE_DATE>
+</YEAST>
+</YEASTS>
+
+ 
+ <STYLE>
+ <NAME>Belgian Dark Strong Ale</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Belgian Strong Ale</CATEGORY>
+ <CATEGORY_NUMBER>18</CATEGORY_NUMBER>
+ <STYLE_LETTER>E</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2008</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.0750000</OG_MIN>
+ <OG_MAX>1.1100000</OG_MAX>
+ <FG_MIN>1.0100000</FG_MIN>
+ <FG_MAX>1.0240000</FG_MAX>
+ <IBU_MIN>20.0000000</IBU_MIN>
+ <IBU_MAX>35.0000000</IBU_MAX>
+ <COLOR_MIN>23.6400000</COLOR_MIN>
+ <COLOR_MAX>43.3400000</COLOR_MAX>
+ <CARB_MIN>2.3000000</CARB_MIN>
+ <CARB_MAX>2.9000000</CARB_MAX>
+ <ABV_MAX>11.0000000</ABV_MAX>
+ <ABV_MIN>8.0000000</ABV_MIN>
+ <NOTES>A dark, very rich, complex, very strong Belgian ale. Complex, rich, smooth and dangerous. Most versions are unique in character reflecting characteristics of individual breweries. Authentic Trappist versions tend to be drier (Belgians would say &#8220;more digestible&#8221;) than Abbey versions, which can be rather sweet and full-bodied. Higher bitterness is allowable in Abbey-style beers with a higher FG. Barleywine-type beers (e.g., Scaldis/Bush, La Trappe Quadrupel, Weyerbacher QUAD) and Spiced/Christmas-type beers (e.g., N&#8217;ice Chouffe, Affligem N&#246;el) should be entered in the Belgian Specialty Ale category (16E), not this category. Traditionally bottle-conditioned (&#8220;refermented in the bottle&#8221;).</NOTES>
+ <PROFILE>Aroma: Complex, with a rich malty sweetness, significant esters and alcohol, and an optional light to moderate spiciness. The malt is rich and strong, and can have a Munich-type quality often with a caramel, toast and/or bready aroma. The fruity esters are strong to moderately low, and can contain raisin, plum, dried cherry, fig or prune notes. Spicy phenols may be present, but usually have a peppery quality not clovelike. Alcohols are soft, spicy, perfumy and/or rose-like, and are low to moderate in intensity. Hops are not usually present (but a very low noble hop aroma is acceptable). No diacetyl. No dark/roast malt aroma. No hot alcohols or solventy aromas. No recognizable spice additions.
+Appearance: Deep amber to deep coppery-brown in color (&#8220;dark&#8221; in this context implies &#8220;more deeply colored than golden&#8221;). Huge, dense, moussy, persistent cream- to light tancolored head. Can be clear to somewhat hazy.
+Flavor: Similar to aroma (same malt, ester, phenol, alcohol, hop and spice comments apply to flavor as well). Moderately malty or sweet on palate. Finish is variable depending on interpretation (authentic Trappist versions are moderately dry to dry, Abbey versions can be medium-dry to sweet). Low bitterness for a beer of this strength; alcohol provides some of the balance to the malt. Sweeter and more full-bodied beers will have a higher bitterness level to balance. Almost all versions are malty in the balance, although a few are lightly bitter. The complex and varied flavors should blend smoothly and harmoniously.
+Mouthfeel: High carbonation but no carbonic acid &#8220;bite.&#8221; Smooth but noticeable alcohol warmth. Body can be variable depending on interpretation (authentic Trappist versions tend to be medium-light to medium, while Abbey-style beers can be quite full and creamy).</PROFILE>
+ <INGREDIENTS>Belgian yeast strains prone to production of higher alcohols, esters, and sometimes phenolics are commonly used. Water can be soft to hard. Impression of a complex grain bill, although many traditional versions are quite simple, with caramelized sugar syrup or unrefined sugars and yeast providing much of the complexity. Homebrewers may use Belgian Pils or pale base malt, Munich-type malts for maltiness, other Belgian specialty grains for character. Caramelized sugar syrup or unrefined sugars lightens body and adds color and flavor (particularly if dark sugars are used). Noble-type, English-type or Styrian Goldings hops commonly used. Spices generally not used; if used, keep subtle and in the background. Avoid US/UK crystal type malts (these provide the wrong type of sweetness).</INGREDIENTS>
+ <EXAMPLES>Westvleteren 12 (yellow cap), Rochefort 10 (blue cap), St. Bernardus Abt 12, Gouden Carolus Grand Cru of the Emperor, Achel Extra Brune, Rochefort 8 (green cap), Southampton Abbot 12, Chimay Grande Reserve (Blue), Brasserie des Rocs Grand Cru, Gulden Draak, Kasteelbier Bi&#232;re du Chateau Donker, Lost Abbey Judgment Day, Russian River Salvation</EXAMPLES>
+ <DISPLAY_OG_MIN>1.075 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.110 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.010 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.024 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>23.6 EBC</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>43.3 EBC</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1,075-1,110 SG</OG_RANGE>
+ <FG_RANGE>1,010-1,024 SG</FG_RANGE>
+ <IBU_RANGE>20,0-35,0 IBUs</IBU_RANGE>
+ <CARB_RANGE>2,30-2,90 Vols</CARB_RANGE>
+ <COLOR_RANGE>23,6-43,3 EBC</COLOR_RANGE>
+ <ABV_RANGE>8,00-11,00 %</ABV_RANGE>
+</STYLE>
+
+ <EQUIPMENT>
+ <NAME>Grainfather</NAME>
+ <VERSION>1</VERSION>
+ <BOIL_SIZE>28.0000000</BOIL_SIZE>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <TUN_VOLUME>22.6000000</TUN_VOLUME>
+ <TUN_WEIGHT>9.2999940</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <TOP_UP_WATER>0.0000000</TOP_UP_WATER>
+ <TRUB_CHILLER_LOSS>2.5000000</TRUB_CHILLER_LOSS>
+ <EVAP_RATE>8.9285714</EVAP_RATE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <CALC_BOIL_VOLUME>FALSE</CALC_BOIL_VOLUME>
+ <LAUTER_DEADSPACE>7.0000000</LAUTER_DEADSPACE>
+ <TOP_UP_KETTLE>0.0000000</TOP_UP_KETTLE>
+ <HOP_UTILIZATION>100.0000000</HOP_UTILIZATION>
+ <COOLING_LOSS_PCT>4.0000000</COOLING_LOSS_PCT>
+ <NOTES></NOTES>
+ <DISPLAY_BOIL_SIZE>28.00 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_BATCH_SIZE>25.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_TUN_VOLUME>22.60 l</DISPLAY_TUN_VOLUME>
+ <DISPLAY_TUN_WEIGHT>9.30 kg</DISPLAY_TUN_WEIGHT>
+ <DISPLAY_TOP_UP_WATER>0.00 l</DISPLAY_TOP_UP_WATER>
+ <DISPLAY_TRUB_CHILLER_LOSS>2.50 l</DISPLAY_TRUB_CHILLER_LOSS>
+ <DISPLAY_LAUTER_DEADSPACE>7.00 l</DISPLAY_LAUTER_DEADSPACE>
+ <DISPLAY_TOP_UP_KETTLE>0.00 l</DISPLAY_TOP_UP_KETTLE>
+</EQUIPMENT>
+
+ <MASH>
+ <NAME>GF: Single Infusion, 65 C</NAME>
+ <VERSION>1</VERSION>
+ <GRAIN_TEMP>22.2222222</GRAIN_TEMP>
+ <TUN_TEMP>22.2222222</TUN_TEMP>
+ <SPARGE_TEMP>76.0000000</SPARGE_TEMP>
+ <PH>5.4000000</PH>
+ <TUN_WEIGHT>328.0479024</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+ <NOTES></NOTES>
+ <DISPLAY_GRAIN_TEMP>22.2 C</DISPLAY_GRAIN_TEMP>
+ <DISPLAY_TUN_TEMP>22.2 C</DISPLAY_TUN_TEMP>
+ <DISPLAY_SPARGE_TEMP>76.0 C</DISPLAY_SPARGE_TEMP>
+ <DISPLAY_TUN_WEIGHT>9.30 kg</DISPLAY_TUN_WEIGHT>
+<MASH_STEPS>
+<MASH_STEP>
+ <NAME>Mash In</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>18.9000000</INFUSE_AMOUNT>
+ <STEP_TIME>90.0000000</STEP_TIME>
+ <STEP_TEMP>65.0000000</STEP_TEMP>
+ <RAMP_TIME>0.0000000</RAMP_TIME>
+ <END_TEMP>65.0000000</END_TEMP>
+ <DESCRIPTION>Add 25,90 l of water at 69,4 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>2,700 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>69.4 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>65.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>25.90 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Mash Out</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Temperature</TYPE>
+ <INFUSE_AMOUNT>-0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>10.0000000</STEP_TIME>
+ <STEP_TEMP>76.0000000</STEP_TEMP>
+ <RAMP_TIME>10.0000000</RAMP_TIME>
+ <END_TEMP>76.0000000</END_TEMP>
+ <DESCRIPTION>Heat to 76,0 C over 10 min</DESCRIPTION>
+ <WATER_GRAIN_RATIO>3,700 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>76.0 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>76.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+</MASH_STEPS>
+
+</MASH>
+
+ <NOTES></NOTES>
+ <TASTE_NOTES></TASTE_NOTES>
+ <TASTE_RATING>30.0000000</TASTE_RATING>
+ <OG>1.0960000</OG>
+ <FG>1.0100000</FG>
+ <CARBONATION>2.3000000</CARBONATION>
+ <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+ <PRIMARY_AGE>14.0000000</PRIMARY_AGE>
+ <PRIMARY_TEMP>20.0000000</PRIMARY_TEMP>
+ <SECONDARY_AGE>14.0000000</SECONDARY_AGE>
+ <SECONDARY_TEMP>20.0000000</SECONDARY_TEMP>
+ <TERTIARY_AGE>7.0000000</TERTIARY_AGE>
+ <AGE>28.0000000</AGE>
+ <AGE_TEMP>12.0000000</AGE_TEMP>
+ <CARBONATION_USED>Bottle with 123,10 g Table Sugar</CARBONATION_USED>
+ <FORCED_CARBONATION>TRUE</FORCED_CARBONATION>
+ <PRIMING_SUGAR_NAME>Table Sugar</PRIMING_SUGAR_NAME>
+ <PRIMING_SUGAR_EQUIV>0.9099181</PRIMING_SUGAR_EQUIV>
+ <KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
+ <CARBONATION_TEMP>21.1111111</CARBONATION_TEMP>
+ <DISPLAY_CARB_TEMP>21.1 C</DISPLAY_CARB_TEMP>
+ <DATE>19/06/17</DATE>
+ <EST_OG>1.106 SG</EST_OG>
+ <EST_FG>0.998 SG</EST_FG>
+ <EST_COLOR>52.0 EBC</EST_COLOR>
+ <IBU>40.1 IBUs</IBU>
+ <IBU_METHOD>Tinseth</IBU_METHOD>
+ <EST_ABV>14.4 %</EST_ABV>
+ <ABV>11.5 %</ABV>
+ <ACTUAL_EFFICIENCY>120.3 %</ACTUAL_EFFICIENCY>
+ <CALORIES>932.2 kcal/l</CALORIES>
+ <DISPLAY_BATCH_SIZE>25.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_BOIL_SIZE>28.00 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_OG>1.096 SG</DISPLAY_OG>
+ <DISPLAY_FG>1.010 SG</DISPLAY_FG>
+ <DISPLAY_PRIMARY_TEMP>20.0 C</DISPLAY_PRIMARY_TEMP>
+ <DISPLAY_SECONDARY_TEMP>20.0 C</DISPLAY_SECONDARY_TEMP>
+ <DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
+ <DISPLAY_AGE_TEMP>12.0 C</DISPLAY_AGE_TEMP>
+</RECIPE>
+</RECIPES>
