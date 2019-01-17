@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<RECIPE>
+ <NAME>Kona Big Wave Golden Ale klone</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>All Grain</TYPE>
+ <BREWER>Dan</BREWER>
+ <ASST_BREWER></ASST_BREWER>
+ <BATCH_SIZE>7.0000000</BATCH_SIZE>
+ <BOIL_SIZE>10.3000000</BOIL_SIZE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <EFFICIENCY>72.0000000</EFFICIENCY>
+ <HOPS>
+<HOP>
+ <NAME>Citra</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>13.5000000</ALPHA>
+ <AMOUNT>0.0013500</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>60.0000000</TIME>
+ <NOTES>Special aroma hops released in 2007.  Imparts high alpha/oil content but low cohumulone.
+Aroma: Adds interesting citrus and tropical fruit character to the beer.  
+Substitutes: Unknown</NOTES>
+ <TYPE>Both</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>4.0000000</BETA>
+ <HSI>25.0000000</HSI>
+ <DISPLAY_AMOUNT>1.35 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Galaxy</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>Australia</ORIGIN>
+ <ALPHA>14.2000000</ALPHA>
+ <AMOUNT>0.0013500</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>60.0000000</TIME>
+ <NOTES>A high alpha, dual purpose seedless hops with a unique hop aroma.  It can be used either for bittering or as a late hop addition to provide a flavor of citrus and passionfruit to the finished beer.
+Aroma: Intense, pleasant, unique.</NOTES>
+ <TYPE>Bittering</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>5.9000000</BETA>
+ <HSI>35.0000000</HSI>
+ <DISPLAY_AMOUNT>1.35 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Citra</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>13.5000000</ALPHA>
+ <AMOUNT>0.0015000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>10.0000000</TIME>
+ <NOTES>Special aroma hops released in 2007.  Imparts high alpha/oil content but low cohumulone.
+Aroma: Adds interesting citrus and tropical fruit character to the beer.  
+Substitutes: Unknown</NOTES>
+ <TYPE>Both</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>4.0000000</BETA>
+ <HSI>25.0000000</HSI>
+ <DISPLAY_AMOUNT>1.50 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Galaxy</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>Australia</ORIGIN>
+ <ALPHA>14.2000000</ALPHA>
+ <AMOUNT>0.0015000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>10.0000000</TIME>
+ <NOTES>A high alpha, dual purpose seedless hops with a unique hop aroma.  It can be used either for bittering or as a late hop addition to provide a flavor of citrus and passionfruit to the finished beer.
+Aroma: Intense, pleasant, unique.</NOTES>
+ <TYPE>Bittering</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>5.9000000</BETA>
+ <HSI>35.0000000</HSI>
+ <DISPLAY_AMOUNT>1.50 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Citra</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>13.5000000</ALPHA>
+ <AMOUNT>0.0045000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>0.0000000</TIME>
+ <NOTES>Special aroma hops released in 2007.  Imparts high alpha/oil content but low cohumulone.
+Aroma: Adds interesting citrus and tropical fruit character to the beer.  
+Substitutes: Unknown</NOTES>
+ <TYPE>Both</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>4.0000000</BETA>
+ <HSI>25.0000000</HSI>
+ <DISPLAY_AMOUNT>4.50 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Galaxy</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>Australia</ORIGIN>
+ <ALPHA>14.2000000</ALPHA>
+ <AMOUNT>0.0045000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>0.0000000</TIME>
+ <NOTES>A high alpha, dual purpose seedless hops with a unique hop aroma.  It can be used either for bittering or as a late hop addition to provide a flavor of citrus and passionfruit to the finished beer.
+Aroma: Intense, pleasant, unique.</NOTES>
+ <TYPE>Bittering</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>5.9000000</BETA>
+ <HSI>35.0000000</HSI>
+ <DISPLAY_AMOUNT>4.50 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+</HOP>
+</HOPS>
+
+ <FERMENTABLES>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU PALE ALE</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>1.1999992</AMOUNT>
+ <YIELD>81.0000000</YIELD>
+ <COLOR>8.4710000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: Belgian light-coloured base malt. Kilning at up to 90-95&#176;C.
+
+Characteristics: Usually used as a base malt or in combination with Pilsen 2RS malt
+to impart a richer malt flavour and additional colour. Being deeper in colour, this
+malt can add a golden hue to the wort. It is used with strong yeasts to produce
+amber and bitter beers. Ch&#226;teau Pale Ale malt is kilned longer and is usually better
+modified, providing a more pronounced flavour than Pilsen 2RS. The enzymatic
+activity of Ch&#226;teau Pale Ale malt is sufficient when used with large proportion of
+non-enzymatic specialty malts.
+
+Usage: Pale ale styles and bitter beers, most traditional English beer styles.
+
+7 &#8211; 10 EBC (European Brewing Convention)
+3.2 &#8211; 4.3&#176;L (Lovibond)
+
+%: Up to 100% of the mix
+
+Moisture % 4.5
+
+Extract (dry basis) % 81.0
+
+Difference fine &#8211; coarse % 1.0-2.5
+
+Wort colour EBC (&#176;L) 7.0 (3.2) 10.0 (4.3)
+
+Total Protein (dry malt) % 11.5
+
+Soluble protein % 4.0 4.6
+
+Kolbach Index % 38.0 45.0
+
+Viscosity cp 1.60
+
+Diastatic power WK 250
+
+Friability % 80.0
+
+NDMA ppb 2.5
+</NOTES>
+ <COARSE_FINE_DIFF>1.7000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>250.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.5000000</PROTEIN>
+ <MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>1.20 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0372600</POTENTIAL>
+ <DISPLAY_COLOR>8.5 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU CRYSTAL&#174;</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.1029337</AMOUNT>
+ <YIELD>78.0000000</YIELD>
+ <COLOR>150.1140000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: Distinct Belgian aromatic malt with special caramelization developed by Castle Malting&#174;. Particular germination process. Caramelized in several steps to develop unique aroma and flavour.
+
+Characteristics: This caramel-copper coloured malt provides a rich malt flavour and aroma to amber and dark lager beers. Compared to other traditional coloured malts, Ch&#226;teau Crystal&#174; has an even stronger diastatic power and imparts a smoother bitterness.
+
+Usage: Aromatic and coloured beers. Perfect for any beer in which high profile malt is required. Excellent choice for Belgian ales and German bock beer styles. Up to 20% of the mix.
+
+150EBC (European Brewing Convention)
+56.8&#176;L (Lovibond)
+
+Moisture % 4.5
+
+Extract (dry basis) % 78.0
+
+pH 5.8
+
+Wortcolour EBC (&#176;L) 142.0 (53.8)
+                                    158.0 (59.8)</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>0.0000000</PROTEIN>
+ <MAX_IN_BATCH>20.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.10 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0358800</POTENTIAL>
+ <DISPLAY_COLOR>150.1 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+</FERMENTABLES>
+
+ <MISCS>
+<MISC>
+ <NAME>Whirlfloc Tablet</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Fining</TYPE>
+ <USE>Boil</USE>
+ <AMOUNT>0.140000</AMOUNT>
+ <TIME>15.00</TIME>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <USE_FOR>Clarity</USE_FOR>
+ <NOTES>Aids in clearing yeast and chill haze.  Easy to use tablet form.</NOTES>
+ <DISPLAY_AMOUNT>0.14 Items</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 Items</INVENTORY>
+ <DISPLAY_TIME>15.0 mins</DISPLAY_TIME>
+ <BATCH_SIZE>25.00 l</BATCH_SIZE>
+</MISC>
+<MISC>
+ <NAME>Yeast Nutrient</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Other</TYPE>
+ <USE>Boil</USE>
+ <AMOUNT>1.000000</AMOUNT>
+ <TIME>10.00</TIME>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <USE_FOR>Fermentation</USE_FOR>
+ <NOTES>Gives yeast nutrients for healthy fermentation.  Not needed for most beers, but good for those with a high percentage of adjuncts.  Add before yeast.</NOTES>
+ <DISPLAY_AMOUNT>1.00 Items</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 Items</INVENTORY>
+ <DISPLAY_TIME>10.0 mins</DISPLAY_TIME>
+ <BATCH_SIZE>18.93 l</BATCH_SIZE>
+</MISC>
+</MISCS>
+
+ <YEASTS>
+<YEAST>
+ <NAME>Safale American </NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Ale</TYPE>
+ <FORM>Dry</FORM>
+ <AMOUNT>0.0502753</AMOUNT>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <LABORATORY>DCL/Fermentis</LABORATORY>
+ <PRODUCT_ID>US-05</PRODUCT_ID>
+ <MIN_TEMPERATURE>15.0000000</MIN_TEMPERATURE>
+ <MAX_TEMPERATURE>23.8888889</MAX_TEMPERATURE>
+ <FLOCCULATION>Medium</FLOCCULATION>
+ <ATTENUATION>76.5000000</ATTENUATION>
+ <NOTES>American ale yeast that produces well balanced beers with low diacetyl and a very clean, crisp end palate.</NOTES>
+ <BEST_FOR>American ale, other clean finish ales</BEST_FOR>
+ <MAX_REUSE>5</MAX_REUSE>
+ <TIMES_CULTURED>0</TIMES_CULTURED>
+ <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+ <DISPLAY_AMOUNT>50.28 ml</DISPLAY_AMOUNT>
+ <DISP_MIN_TEMP>15.0 C</DISP_MIN_TEMP>
+ <DISP_MAX_TEMP>23.9 C</DISP_MAX_TEMP>
+ <INVENTORY>0.0 pkg</INVENTORY>
+ <CULTURE_DATE>06/03/11</CULTURE_DATE>
+</YEAST>
+</YEASTS>
+
+ 
+ <STYLE>
+ <NAME>Blonde Ale</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Light Hybrid Beer</CATEGORY>
+ <CATEGORY_NUMBER>6</CATEGORY_NUMBER>
+ <STYLE_LETTER>B</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2008</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.0380000</OG_MIN>
+ <OG_MAX>1.0540000</OG_MAX>
+ <FG_MIN>1.0080000</FG_MIN>
+ <FG_MAX>1.0130000</FG_MAX>
+ <IBU_MIN>15.0000000</IBU_MIN>
+ <IBU_MAX>28.0000000</IBU_MAX>
+ <COLOR_MIN>5.9100000</COLOR_MIN>
+ <COLOR_MAX>11.8200000</COLOR_MAX>
+ <CARB_MIN>2.4000000</CARB_MIN>
+ <CARB_MAX>2.8000000</CARB_MAX>
+ <ABV_MAX>5.5000000</ABV_MAX>
+ <ABV_MIN>3.8000000</ABV_MIN>
+ <NOTES>Easy-drinking, approachable, maltoriented American craft beer. Currently produced by many (American) microbreweries and brewpubs. Regional variations exist (many West Coast brewpub examples are more assertive, like pale ales) but in most areas this beer is designed as the entry-level craft beer. In addition to the more common American Blonde Ale, this category can also include modern English Summer Ales, American K&#246;lsch-style beers, and less assertive American and English pale ales.</NOTES>
+ <PROFILE>Aroma: Light to moderate sweet malty aroma. Low to moderate fruitiness is optional, but acceptable. May have a low to medium hop aroma, and can reflect almost any hop variety. No diacetyl.
+Appearance: Light yellow to deep gold in color. Clear to brilliant. Low to medium white head with fair to good retention.
+Flavor: Initial soft malty sweetness, but optionally some light character malt flavor (e.g., bread, toast, biscuit, wheat) can also be present. Caramel flavors typically absent. Low to medium esters optional, but are commonly found in many examples. Light to moderate hop flavor (any variety), but shouldn&#8217;t be overly aggressive. Low to medium bitterness, but the balance is normally towards the malt. Finishes medium-dry to somewhat sweet. No diacetyl.
+Mouthfeel: Medium-light to medium body. Medium to high carbonation. Smooth without harsh bitterness or astringency.</PROFILE>
+ <INGREDIENTS>Generally all malt, but can include up to 25% wheat malt and some sugar adjuncts. Any hop variety can be used. Clean American, lightly fruity English, or K&#246;lsch yeast. May also be made with lager yeast, or cold-conditioned. Some versions may have honey, spices and/or fruit added, although if any of these ingredients are stronger than a background flavor they should be entered in specialty, spiced or fruit beer categories instead. Extract versions should only use the lightest malt extracts and avoid kettle caramelization.</INGREDIENTS>
+ <EXAMPLES>Pelican Kiwanda Cream Ale, Russian River Aud Blonde, Rogue Oregon Golden Ale, Widmer Blonde Ale, Fuller&#39;s Summer Ale, Hollywood Blonde, Redhook Blonde</EXAMPLES>
+ <DISPLAY_OG_MIN>1.038 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.054 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.008 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.013 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>5.9 EBC</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>11.8 EBC</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1,038-1,054 SG</OG_RANGE>
+ <FG_RANGE>1,008-1,013 SG</FG_RANGE>
+ <IBU_RANGE>15,0-28,0 IBUs</IBU_RANGE>
+ <CARB_RANGE>2,40-2,80 Vols</CARB_RANGE>
+ <COLOR_RANGE>5,9-11,8 EBC</COLOR_RANGE>
+ <ABV_RANGE>3,80-5,50 %</ABV_RANGE>
+</STYLE>
+
+ <EQUIPMENT>
+ <NAME>Kjele (13 L)</NAME>
+ <VERSION>1</VERSION>
+ <BOIL_SIZE>10.3000000</BOIL_SIZE>
+ <BATCH_SIZE>7.0000000</BATCH_SIZE>
+ <TUN_VOLUME>13.0000000</TUN_VOLUME>
+ <TUN_WEIGHT>1.6999989</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <TOP_UP_WATER>0.0000000</TOP_UP_WATER>
+ <TRUB_CHILLER_LOSS>0.5000000</TRUB_CHILLER_LOSS>
+ <EVAP_RATE>24.2718447</EVAP_RATE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+ <LAUTER_DEADSPACE>0.3000000</LAUTER_DEADSPACE>
+ <TOP_UP_KETTLE>0.0000000</TOP_UP_KETTLE>
+ <HOP_UTILIZATION>100.0000000</HOP_UTILIZATION>
+ <COOLING_LOSS_PCT>4.0000000</COOLING_LOSS_PCT>
+ <NOTES>Kjele for &#229; lage 6 liter med &#248;l; nok til en kasse med 12 stk. 0,5 liters flasker.</NOTES>
+ <DISPLAY_BOIL_SIZE>10.30 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_BATCH_SIZE>7.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_TUN_VOLUME>13.00 l</DISPLAY_TUN_VOLUME>
+ <DISPLAY_TUN_WEIGHT>1.70 kg</DISPLAY_TUN_WEIGHT>
+ <DISPLAY_TOP_UP_WATER>0.00 l</DISPLAY_TOP_UP_WATER>
+ <DISPLAY_TRUB_CHILLER_LOSS>0.50 l</DISPLAY_TRUB_CHILLER_LOSS>
+ <DISPLAY_LAUTER_DEADSPACE>0.30 l</DISPLAY_LAUTER_DEADSPACE>
+ <DISPLAY_TOP_UP_KETTLE>0.00 l</DISPLAY_TOP_UP_KETTLE>
+</EQUIPMENT>
+
+ <MASH>
+ <NAME>Temperature Mash, 2 Step, Light Body</NAME>
+ <VERSION>1</VERSION>
+ <GRAIN_TEMP>22.2222222</GRAIN_TEMP>
+ <TUN_TEMP>22.2222222</TUN_TEMP>
+ <SPARGE_TEMP>75.5555556</SPARGE_TEMP>
+ <PH>5.4000000</PH>
+ <TUN_WEIGHT>59.9657456</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+ <NOTES>Two step profile with a protein rest for mashes with unmodified grains or adjuncts.  Temperature mash for use when mashing in a brew pot over a heat source such as the stove.  Use heat to maintain desired temperature during the mash.</NOTES>
+ <DISPLAY_GRAIN_TEMP>22.2 C</DISPLAY_GRAIN_TEMP>
+ <DISPLAY_TUN_TEMP>22.2 C</DISPLAY_TUN_TEMP>
+ <DISPLAY_SPARGE_TEMP>75.6 C</DISPLAY_SPARGE_TEMP>
+ <DISPLAY_TUN_WEIGHT>1.70 kg</DISPLAY_TUN_WEIGHT>
+<MASH_STEPS>
+<MASH_STEP>
+ <NAME>Protein Rest</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>3.9088014</INFUSE_AMOUNT>
+ <STEP_TIME>30.0000000</STEP_TIME>
+ <STEP_TEMP>50.0000000</STEP_TEMP>
+ <RAMP_TIME>2.0000000</RAMP_TIME>
+ <END_TEMP>50.0000000</END_TEMP>
+ <DESCRIPTION>Add 3,91 l of water at 53,5 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>3,000 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>53.5 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>50.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>3.91 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Saccharification</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Temperature</TYPE>
+ <INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>75.0000000</STEP_TIME>
+ <STEP_TEMP>64.0000000</STEP_TEMP>
+ <RAMP_TIME>10.0000000</RAMP_TIME>
+ <END_TEMP>64.0000000</END_TEMP>
+ <DESCRIPTION>Heat to 64,0 C over 10 min</DESCRIPTION>
+ <WATER_GRAIN_RATIO>3,000 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>64.0 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>64.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Mash Out</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Temperature</TYPE>
+ <INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>10.0000000</STEP_TIME>
+ <STEP_TEMP>76.0000000</STEP_TEMP>
+ <RAMP_TIME>10.0000000</RAMP_TIME>
+ <END_TEMP>76.0000000</END_TEMP>
+ <DESCRIPTION>Heat to 76,0 C over 10 min</DESCRIPTION>
+ <WATER_GRAIN_RATIO>3,000 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>76.0 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>76.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+</MASH_STEPS>
+
+</MASH>
+
+ <NOTES>Informasjon fra Kona om Big Wave.
+
+BITTERNESS: 21 IBU
+ALCOHOL BY VOLUME: 4.4%
+ORIGINAL GRAVITY: 10.3&#176; P
+MALTS: PALE (PREMIUM 2-ROW), CARAMEL
+HOPS: GALAXY, CITRA
+
+20160123-1700: M&#229;lte opp 1,2 kg &#34;Pale Ale&#34;-malt og 100 g Crystal-malt. Skulle ha v&#230;rt &#34;Cara Blond&#34;, men klarte &#229; kj&#248;pe feil. Kvernet malten p&#229; 0,85 mm 2 ganger.
+
+20160124-0550: M&#229;lte opp like under 4 liter og startet oppvarmingen. Klargjorde alt annet.
+
+20160124-0605: Traff p&#229; 54C og hadde oppi maltposen og deretter maltet. M&#229;lte 51C. Startet nedtelling p&#229; 30 min. Sirkulerer hele tiden.
+
+20160124-0635: Startet oppvarmingen til 64C.
+
+20160124-0645: Traff p&#229; 64C men hadde for sterk varme p&#229; og endte p&#229; 68C. Hadde i 6 dl kaldt vann og endte p&#229; 65C. Startet nedtelling p&#229; 75 min.
+
+NB! Maltet var for fint kvernet slik at pumpe sugde bunnen t&#248;rr; stuck mash. Strupet krana p&#229; kjelen. Fungerte fint. Varmet opp 7,4 l skyllevann til 76C.
+
+20160124-0758: Startet oppvarmingen til 76C.
+
+20160124-0808: Traff p&#229; 76C og startet nedtelling p&#229; 10 min.
+
+20160124-0818: Pumpet mesken over i gj&#230;ringskaret og hadde kontinuerlig i skyllevann. Fly sparge.
+
+20160124-0838: Startet oppvarming til koking. M&#229;lte SG til 1020 ved 60C, noe som tilsvarer 1033. Skulle ha v&#230;rt 1030.
+
+20160124-0848: Kok. Hadde i 60-min humle.
+
+20160124-0854: Rehydrerte t&#248;rrgj&#230;ren i et syltet&#248;yglass med kokt og nedkj&#248;lt vann. Ristet.
+
+20160124-0917: Koblet til motstr&#248;mskj&#248;leren og fylte den med vann.
+
+20160124-0933: Desinfiserte motstr&#248;mskj&#248;leren ved &#229; sirkulere kokende v&#248;rter. Hadde i whirlfloc med 15 min igjen.
+
+20160124-0938: Hadde i 10-min humle og gj&#230;rn&#230;ing.
+
+20160124-0948: Hadde i 0-min humle og startet nedkj&#248;ling.
+
+20160124-0958: Kj&#248;lte ned til 18C. Lagde en virvelstr&#248;m og satte p&#229; lokket. Lar den st&#229; noen minutter.
+
+20160124-1010: Flyttet nedkj&#248;lt v&#248;rter til gj&#230;ringskar p&#229; 10 l. Endte som forventet med 7 l. OG ble m&#229;lt til 1044.
+
+20160124-1030: Ferdig ryddet og vasket. Tid: 4 timer 45 minutter.
+
+Skal flaskes s&#248;ndag 7. februar.
+
+Observasjoner:
+- Termometeret p&#229; kjelen er helt feil plassert. F&#229;r vurdere &#229; bytte kjele hvis det dukker opp en billig kjele en annen gang.
+- Strup pumpa hvis maltbunnen suges t&#248;rr.
+- Kvern p&#229; 0,9 mm neste gang, og bare en gang.
+- Ved oppvarming til neste meskesteg, skru ned plate litt f&#248;r riktig temperatur.
+- Kj&#248;p riktig malt neste gang.</NOTES>
+ <TASTE_NOTES></TASTE_NOTES>
+ <TASTE_RATING>30.0000000</TASTE_RATING>
+ <OG>1.0440000</OG>
+ <FG>1.0100000</FG>
+ <CARBONATION>2.3000000</CARBONATION>
+ <FERMENTATION_STAGES>1</FERMENTATION_STAGES>
+ <PRIMARY_AGE>14.0000000</PRIMARY_AGE>
+ <PRIMARY_TEMP>19.4444444</PRIMARY_TEMP>
+ <SECONDARY_AGE>10.0000000</SECONDARY_AGE>
+ <SECONDARY_TEMP>18.3333333</SECONDARY_TEMP>
+ <TERTIARY_AGE>7.0000000</TERTIARY_AGE>
+ <AGE>30.0000000</AGE>
+ <AGE_TEMP>18.3333333</AGE_TEMP>
+ <CARBONATION_USED>Bottle with 32,11 g Table Sugar</CARBONATION_USED>
+ <FORCED_CARBONATION>TRUE</FORCED_CARBONATION>
+ <PRIMING_SUGAR_NAME>Table Sugar</PRIMING_SUGAR_NAME>
+ <PRIMING_SUGAR_EQUIV>0.9099181</PRIMING_SUGAR_EQUIV>
+ <KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
+ <CARBONATION_TEMP>21.1111111</CARBONATION_TEMP>
+ <DISPLAY_CARB_TEMP>21.1 C</DISPLAY_CARB_TEMP>
+ <DATE>22/12/15</DATE>
+ <EST_OG>1.042 SG</EST_OG>
+ <EST_FG>1.006 SG</EST_FG>
+ <EST_COLOR>18.4 EBC</EST_COLOR>
+ <IBU>21.1 IBUs</IBU>
+ <IBU_METHOD>Tinseth</IBU_METHOD>
+ <EST_ABV>4.6 %</EST_ABV>
+ <ABV>4.4 %</ABV>
+ <ACTUAL_EFFICIENCY>76.2 %</ACTUAL_EFFICIENCY>
+ <CALORIES>408.1 kcal/l</CALORIES>
+ <DISPLAY_BATCH_SIZE>7.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_BOIL_SIZE>10.30 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_OG>1.044 SG</DISPLAY_OG>
+ <DISPLAY_FG>1.010 SG</DISPLAY_FG>
+ <DISPLAY_PRIMARY_TEMP>19.4 C</DISPLAY_PRIMARY_TEMP>
+ <DISPLAY_SECONDARY_TEMP>18.3 C</DISPLAY_SECONDARY_TEMP>
+ <DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
+ <DISPLAY_AGE_TEMP>18.3 C</DISPLAY_AGE_TEMP>
+</RECIPE>
+</RECIPES>
