@@ -67,7 +67,7 @@
 .rtl .wp-block-freeform.block-library-rich-text__tinymce blockquote.alignleft {margin: .3157894737em 0 1.473684211em 1.4736842105em;}
 .rtl .wp-block-freeform.block-library-rich-text__tinymce blockquote.alignright {margin: .3157894737em 1.4736842105em 1.473684211em 0;}
 .editor-block-list__block .wp-block-pullquote blockquote {border: 0;margin: 0;padding: 0;}
-.wp-block-pullquote blockquote > .editor-rich-text p {color: #686868;font-size: 19px;font-size: 1.1875rem;}
+.wp-block-pullquote blockquote > .editor-rich-text p {font-size: 19px;font-size: 1.1875rem;}
 .wp-block-pullquote .wp-block-pullquote__citation {color: #1a1a1a;display: block;font-size: 16px;font-size: 1rem;font-style: italic;line-height: 1.75;text-transform: none;}
 .wp-block-pullquote .wp-block-pullquote__citation:before {content: "— ";}
 .editor-block-list__block table.wp-block-table th, .editor-block-list__block table.wp-block-table td {padding: 0;}
@@ -83,3 +83,27 @@
 .wp-block-latest-comments__comment-excerpt p:last-child {margin-bottom: 0;}
 .edit-post-visual-editor .wp-block-latest-posts.is-grid {list-style: none;margin-left: 0;margin-right: 0;}
 .edit-post-visual-editor .wp-block-latest-posts.is-grid li {margin-bottom: 16px;}
+:root .editor-styles-wrapper .has-dark-gray-color {color: #1a1a1a;}
+:root .editor-styles-wrapper .has-dark-gray-background-color {background-color: #1a1a1a;}
+:root .editor-styles-wrapper .has-medium-gray-color {color: #686868;}
+:root .editor-styles-wrapper .has-medium-gray-background-color {background-color: #686868;}
+:root .editor-styles-wrapper .has-light-gray-color {color: #e5e5e5;}
+:root .editor-styles-wrapper .has-light-gray-background-color {background-color: #e5e5e5;}
+:root .editor-styles-wrapper .has-white-color {color: #fff;}
+:root .editor-styles-wrapper .has-white-background-color {background-color: #fff;}
+:root .editor-styles-wrapper .has-blue-gray-color {color: #4d545c;}
+:root .editor-styles-wrapper .has-blue-gray-background-color {background-color: #4d545c;}
+:root .editor-styles-wrapper .has-bright-blue-color {color: #007acc;}
+:root .editor-styles-wrapper .has-bright-blue-background-color {background-color: #007acc;}
+:root .editor-styles-wrapper .has-light-blue-color {color: #9adffd;}
+:root .editor-styles-wrapper .has-light-blue-background-color {background-color: #9adffd;}
+:root .editor-styles-wrapper .has-dark-brown-color {color: #402b30;}
+:root .editor-styles-wrapper .has-dark-brown-background-color {background-color: #402b30;}
+:root .editor-styles-wrapper .has-medium-brown-color {color: #774e24;}
+:root .editor-styles-wrapper .has-medium-brown-background-color {background-color: #774e24;}
+:root .editor-styles-wrapper .has-dark-red-color {color: #640c1f;}
+:root .editor-styles-wrapper .has-dark-red-background-color {background-color: #640c1f;}
+:root .editor-styles-wrapper .has-bright-red-color {color: #ff675f;}
+:root .editor-styles-wrapper .has-bright-red-background-color {background-color: #ff675f;}
+:root .editor-styles-wrapper .has-yellow-color {color: #ffef8e;}
+:root .editor-styles-wrapper .has-yellow-background-color {background-color: #ffef8e;}

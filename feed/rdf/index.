@@ -10,11 +10,13 @@
 	<title>Far &#038; sønn brygger hjemme</title>
 	<link>http://127.0.0.1</link>
 	<description>Øl, brygging og oppskrifter</description>
-	<dc:date>2019-01-17T21:43:02Z</dc:date>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
+	<dc:date>2019-01-17T21:43:02Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
-	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.0.3" />
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=5.5.3" />
 	<items>
 		<rdf:Seq>
 				</rdf:Seq>
