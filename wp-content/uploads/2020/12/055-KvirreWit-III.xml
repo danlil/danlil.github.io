@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<RECIPE>
+ <NAME>055 - KvirreWit III</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>All Grain</TYPE>
+ <BREWER>Dan</BREWER>
+ <ASST_BREWER></ASST_BREWER>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <BOIL_SIZE>28.0000000</BOIL_SIZE>
+ <BOIL_TIME>90.0000000</BOIL_TIME>
+ <EFFICIENCY>73.0000000</EFFICIENCY>
+ <HOPS>
+<HOP>
+ <NAME>East Kent Goldings (EKG)</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>United Kingdom</ORIGIN>
+ <ALPHA>6.8000000</ALPHA>
+ <AMOUNT>0.0322715</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>60.0000000</TIME>
+ <NOTES>Also known as Canterbury Hops by some, although others will dispute this fact. East Kent Goldings gracefully defines the English Pale Ales and Ales produced by the region, it is quintessentially English.
+Used for: English Ale, Porter, Scottish and Irish Ale, Stout, Strong Ale, ESB, Saison, Barleywine.
+Aroma: Floral, aromatic, earthy, slightly sweet spicy flavor
+Substitutes: First Gold, Fuggles, other Golding varieties, Progress, Target, and Whitbread Golding
+Storage: Good/Fair 965-80% AA after 6 months at 20 C)
+4-7% AA / 1.9-2.8% Beta</NOTES>
+ <TYPE>Both</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>3.5000000</BETA>
+ <HSI>35.0000000</HSI>
+ <DISPLAY_AMOUNT>32.27 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+</HOP>
+</HOPS>
+
+ <FERMENTABLES>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU WHEAT BLANC</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>2.8266503</AMOUNT>
+ <YIELD>83.0000000</YIELD>
+ <COLOR>4.5310000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: Wheat malt. Kilned at up to 80 - 85&#176;C.
+
+Characteristics: Enhances the peculiar taste of wheat beers. Ch&#226;teau Wheat Blanc malt is essential in making wheat beers but is also used in barley malt-based beers (3&#8211;5%) thanks to its protein level that gives the beer a fuller mouthfeel and enhanced head stability.
+
+Usage: Wheat beers, white, light beers, beers with low or no alcohol. Recommended max. proportion: up to 30% of the mix.
+
+3.5 &#8211;5.5 EBC (European Brewing Convention)
+1.9 &#8211;2.6&#176;L (Lovibond)
+
+Moisture % 5.5
+
+Extract (dry basis) % 83.0
+
+Wortcolour EBC (&#176;L) 5.5 (2.6)
+
+Postcoloration EBC (&#176;L) 7.5 (3.4)
+
+Total Protein (dry malt) % 14.0
+
+Soluble protein % 4.5- 5.5
+
+Viscosity
+cp 1.9
+pH 5.8-6.1</NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>5.5000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>14.0000000</PROTEIN>
+ <MAX_IN_BATCH>30.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>2.83 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0381800</POTENTIAL>
+ <DISPLAY_COLOR>4.5 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU PILSEN 2RS</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>2.2613202</AMOUNT>
+ <YIELD>81.0000000</YIELD>
+ <COLOR>2.9550000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: The lightest coloured Belgian malt. Produced from the finest European
+malting barley varieties. Kilned at up to 80 - 85&#176;C.
+
+Characteristics: The lightest in colour, this malt is well modified and can be easily
+mashed with a single-temperature infusion. Our Ch&#226;teau Pilsen malt carries a
+strong, sweet malt flavour and contains enough enzymatic power to be used as base
+malt.
+
+Usage: All beer types 
+
+%:  Up to 100% of the mix
+
+2.5 &#8211; 3.5 EBC (European Brewing Convention)
+1.5 &#8211; 1.9&#176;L (Lovibond)
+
+Moisture % 4.5
+
+Extract (dry basis) % 81.0
+
+Difference fine &#8211; coarse % 1.5-2.5
+
+Wort colour EBC (&#176;L) 3.5 (1.9)
+
+Post coloration EBC (&#176;L) 4.0 (2.1)- 6.0 (2.8)
+
+Total Protein (dry malt) % 11.2
+
+Soluble protein % 3.5-4.4
+
+Kolbach Index % 35.0-45.0
+
+Hartong 45&#176; % 34.0-43.0
+
+Viscosity cp 1.6
+
+Ph 5.6-6.0
+
+Diastatic power WK 250
+
+Friability % 81.0
+
+Glassiness (whole grains) % 2.5
+
+PDMS 5.0
+
+NDMA ppb 2.5
+
+Filtration normal
+
+Saccharification time min 15
+
+Clarity of wort clear
+
+
+</NOTES>
+ <COARSE_FINE_DIFF>2.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>250.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.2000000</PROTEIN>
+ <MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>2.26 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0372600</POTENTIAL>
+ <DISPLAY_COLOR>3.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Oats, Flaked</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.2826650</AMOUNT>
+ <YIELD>80.0000000</YIELD>
+ <COLOR>1.9700000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>US</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>Adds body, mouth feel and head retention to the beer
+Used in oatmeal stouts and porters
+Adds substantial protein haze to light beers
+Protein rest recommended unless flakes are pregelatinized</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>9.0000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>9.0000000</PROTEIN>
+ <MAX_IN_BATCH>30.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.28 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0368000</POTENTIAL>
+ <DISPLAY_COLOR>2.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE>Carafoam</EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU MUNICH</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.2029999</AMOUNT>
+ <YIELD>80.0000000</YIELD>
+ <COLOR>24.9993000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>25 EBC (European Brewing Convention)
+
+Features: Belgian specialty malt of M&#252;nich type. Kilned up to 100-105&#176;C.
+
+Characteristics: Rich, golden malt. Provides a modest colour increase toward a nice,
+golden-orange colour. Adds a pronounced grainy malty flavour to many beer styles
+without affecting the foam stability and body. Is also used in small quantities in
+combination with Ch&#226;teau Pilsen 2RS to produce light colour beers, improving the
+malty flavour and giving the beer a richer colour. Enhances the taste of character
+beers.
+
+Usage: Pale ale, amber, brown, strong and dark beers, bocks
+
+%: Up to 60% of the mix
+
+Moisture % 4.5
+
+Extract (dry basis) % 80.0
+
+Wort colour EBC (&#176;L) 21.0 (8.4) 28.0 (11.1)
+
+Total Protein (dry malt) % 11.5
+
+Clarity of wort % clear
+
+</NOTES>
+ <COARSE_FINE_DIFF>2.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>100.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.5000000</PROTEIN>
+ <MAX_IN_BATCH>60.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.20 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0368000</POTENTIAL>
+ <DISPLAY_COLOR>25.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU MUNICH LIGHT&#174;</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.0769999</AMOUNT>
+ <YIELD>80.0000000</YIELD>
+ <COLOR>14.9720000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>15 EBC (European Brewing Convention)
+
+Features: Belgian specialty malt of M&#252;nich type. Kilned up to 100-105&#176;C.
+
+Characteristics: Rich, golden malt. Provides a modest colour increase toward a nice,
+golden-orange colour. Adds a pronounced grainy malty flavour to many beer styles
+without affecting the foam stability and body. Is also used in small quantities in
+combination with Ch&#226;teau Pilsen 2RS to produce light colour beers, improving the
+malty flavour and giving the beer a richer colour. Enhances the taste of character
+beers.
+
+Usage: Pale ale, amber, brown, strong and dark beers, bocks
+
+
+%: Up to 60% of the mix
+
+Moisture % 4.5
+
+Extract (dry basis) % 80.0
+
+Difference fine &#8211; coarse % 2.5
+
+Wort colour EBC (&#176;L) 13.0 (5.4) 17.0 (6.9)
+
+Total Protein (dry malt) % 11.5
+
+Soluble protein % 4.9
+
+Kolbach Index % 49.0
+
+Hartong 45* % 49.0
+
+Viscosity cp 1.65
+
+Diastatic power WK 150
+
+Friability % 80.0
+
+Glassiness % 2.5
+
+NDMA ppb 3.0
+
+Calibration: - above 2.5 mm % 90.0
+
+Attenuation limit % 77.0
+</NOTES>
+ <COARSE_FINE_DIFF>2.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>150.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.5000000</PROTEIN>
+ <MAX_IN_BATCH>60.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.08 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0368000</POTENTIAL>
+ <DISPLAY_COLOR>15.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+</FERMENTABLES>
+
+ <MISCS>
+<MISC>
+ <NAME>Orange Peel, Sweet</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Spice</TYPE>
+ <USE>Boil</USE>
+ <AMOUNT>0.045000</AMOUNT>
+ <TIME>5.00</TIME>
+ <AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>
+ <USE_FOR>Holiday Beers</USE_FOR>
+ <NOTES>Adds a Conitreau or Grand Marnier flavor to your beer.  Used primarily in Belgian Strong Ale and Holiday Ales to add a sweet orange flavor and aroma.</NOTES>
+ <DISPLAY_AMOUNT>45.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>5.0 mins</DISPLAY_TIME>
+ <BATCH_SIZE>18.93 l</BATCH_SIZE>
+</MISC>
+<MISC>
+ <NAME>Coriander Seed</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Spice</TYPE>
+ <USE>Boil</USE>
+ <AMOUNT>0.010000</AMOUNT>
+ <TIME>5.00</TIME>
+ <AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>
+ <USE_FOR>Belgian Wit</USE_FOR>
+ <NOTES>Used in Belgian Wit, Whites, and Holiday ales.  Very good when used in light wheat ales.  Often used with Bitter Orange Peel.</NOTES>
+ <DISPLAY_AMOUNT>10.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>5.0 mins</DISPLAY_TIME>
+ <BATCH_SIZE>18.93 l</BATCH_SIZE>
+</MISC>
+</MISCS>
+
+ <YEASTS>
+<YEAST>
+ <NAME>Belgian Wit II</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Ale</TYPE>
+ <FORM>Liquid</FORM>
+ <AMOUNT>0.0354884</AMOUNT>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <LABORATORY>White Labs</LABORATORY>
+ <PRODUCT_ID>WLP410</PRODUCT_ID>
+ <MIN_TEMPERATURE>19.4444444</MIN_TEMPERATURE>
+ <MAX_TEMPERATURE>23.3333333</MAX_TEMPERATURE>
+ <FLOCCULATION>Medium</FLOCCULATION>
+ <ATTENUATION>72.5000000</ATTENUATION>
+ <NOTES>Less phenolic than WLP400 (Belgian Wit Ale) but more spicy.  Leaves a little more sweetness and flocculation is higher than WLP400.</NOTES>
+ <BEST_FOR>Belgian Wit, Spiced Ale, Wheat Ales and Specialty Beers</BEST_FOR>
+ <MAX_REUSE>5</MAX_REUSE>
+ <TIMES_CULTURED>0</TIMES_CULTURED>
+ <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+ <DISPLAY_AMOUNT>35.49 ml</DISPLAY_AMOUNT>
+ <DISP_MIN_TEMP>19.4 C</DISP_MIN_TEMP>
+ <DISP_MAX_TEMP>23.3 C</DISP_MAX_TEMP>
+ <INVENTORY>0.0 pkg</INVENTORY>
+ <CULTURE_DATE>11/06/03</CULTURE_DATE>
+</YEAST>
+</YEASTS>
+
+ 
+ <STYLE>
+ <NAME>Witbier</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Belgian and French Ale</CATEGORY>
+ <CATEGORY_NUMBER>16</CATEGORY_NUMBER>
+ <STYLE_LETTER>A</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2008</STYLE_GUIDE>
+ <TYPE>Mixed</TYPE>
+ <OG_MIN>1.0440000</OG_MIN>
+ <OG_MAX>1.0520000</OG_MAX>
+ <FG_MIN>1.0080000</FG_MIN>
+ <FG_MAX>1.0120000</FG_MAX>
+ <IBU_MIN>10.0000000</IBU_MIN>
+ <IBU_MAX>20.0000000</IBU_MAX>
+ <COLOR_MIN>3.9400000</COLOR_MIN>
+ <COLOR_MAX>7.8800000</COLOR_MAX>
+ <CARB_MIN>2.4000000</CARB_MIN>
+ <CARB_MAX>2.9000000</CARB_MAX>
+ <ABV_MAX>5.5000000</ABV_MAX>
+ <ABV_MIN>4.5000000</ABV_MIN>
+ <NOTES>A refreshing, elegant, tasty, moderatestrength wheat-based ale. A 400-year-old beer style that died out in the 1950s; it was later revived by Pierre Celis at Hoegaarden, and has grown steadily in popularity over time. The presence, character and degree of spicing and lactic sourness varies. Overly spiced and/or sour beers are not good examples of the style. Coriander of certain origins might give an inappropriate ham or celery character. The beer tends to be fragile and does not age well, so younger, fresher, properly handled examples are most desirable. Most examples seem to be approximately 5% ABV.</NOTES>
+ <PROFILE>Aroma: Moderate sweetness (often with light notes of honey and/or vanilla) with light, grainy, spicy wheat aromatics, often with a bit of tartness. Moderate perfumy coriander, often with a complex herbal, spicy, or peppery note in the background. Moderate zesty, citrusy orangey fruitiness. A low spicy-herbal hop aroma is optional, but should never overpower the other characteristics. No diacetyl. Vegetal, celerylike, or ham-like aromas are inappropriate. Spices should blend in with fruity, floral and sweet aromas and should not be overly strong.
+Appearance: Very pale straw to very light gold in color. The beer will be very cloudy from starch haze and/or yeast, which gives it a milky, whitish-yellow appearance. Dense, white, moussy head. Head retention should be quite good.
+Flavor: Pleasant sweetness (often with a honey and/or vanilla character) and a zesty, orange-citrusy fruitiness. Refreshingly crisp with a dry, often tart, finish. Can have a low wheat flavor. Optionally has a very light lactic-tasting sourness. Herbalspicy flavors, which may include coriander and other spices, are common should be subtle and balanced, not overpowering. A spicy-earthy hop flavor is low to none, and if noticeable, never gets in the way of the spices. Hop bitterness is low to medium-low (as with a Hefeweizen), and doesn&#8217;t interfere with refreshing flavors of fruit and spice, nor does it persist into the finish. Bitterness from orange pith should not be present. Vegetal, celery-like, ham-like, or soapy flavors are inappropriate. No diacetyl.
+Mouthfeel: Medium-light to medium body, often having a smoothness and light creaminess from unmalted wheat and the occasional oats. Despite body and creaminess, finishes dry and often a bit tart. Effervescent character from high carbonation. Refreshing, from carbonation, light acidity, and lack of bitterness in finish. No harshness or astringency from orange pith. Should not be overly dry and thin, nor should it be thick and heavy.</PROFILE>
+ <INGREDIENTS>About 50% unmalted wheat (traditionally soft white winter wheat) and 50% pale barley malt (usually Pils malt) constitute the grist. In some versions, up to 5-10% raw oats may be used. Spices of freshly-ground coriander and Cura&#231;ao or sometimes sweet orange peel complement the sweet aroma and are quite characteristic. Other spices (e.g., chamomile, cumin, cinnamon, Grains of Paradise) may be used for complexity but are much less prominent. Ale yeast prone to the production of mild, spicy flavors is very characteristic. In some instances a very limited lactic fermentation, or the actual addition of lactic acid, is done.</INGREDIENTS>
+ <EXAMPLES>Hoegaarden Wit, St. Bernardus Blanche, Celis White, Vuuve 5, Brugs Tarwebier (Blanche de Bruges), Wittekerke, Allagash White, Blanche de Bruxelles, Ommegang Witte, Avery White Rascal, Unibroue Blanche de Chambly, Sterkens White Ale, Bell&#8217;s Winter White Ale, Victory Whirlwind Witbier, Hitachino Nest White Ale</EXAMPLES>
+ <DISPLAY_OG_MIN>1.044 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.052 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.008 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.012 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>3.9 EBC</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>7.9 EBC</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1,044-1,052 SG</OG_RANGE>
+ <FG_RANGE>1,008-1,012 SG</FG_RANGE>
+ <IBU_RANGE>10,0-20,0 IBUs</IBU_RANGE>
+ <CARB_RANGE>2,40-2,90 Vols</CARB_RANGE>
+ <COLOR_RANGE>3,9-7,9 EBC</COLOR_RANGE>
+ <ABV_RANGE>4,50-5,50 %</ABV_RANGE>
+</STYLE>
+
+ <EQUIPMENT>
+ <NAME>Grainfather</NAME>
+ <VERSION>1</VERSION>
+ <BOIL_SIZE>28.0000000</BOIL_SIZE>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <TUN_VOLUME>22.6000000</TUN_VOLUME>
+ <TUN_WEIGHT>9.2999940</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <TOP_UP_WATER>0.0000000</TOP_UP_WATER>
+ <TRUB_CHILLER_LOSS>2.5000000</TRUB_CHILLER_LOSS>
+ <EVAP_RATE>8.9285714</EVAP_RATE>
+ <BOIL_TIME>90.0000000</BOIL_TIME>
+ <CALC_BOIL_VOLUME>FALSE</CALC_BOIL_VOLUME>
+ <LAUTER_DEADSPACE>7.0000000</LAUTER_DEADSPACE>
+ <TOP_UP_KETTLE>0.0000000</TOP_UP_KETTLE>
+ <HOP_UTILIZATION>100.0000000</HOP_UTILIZATION>
+ <COOLING_LOSS_PCT>4.0000000</COOLING_LOSS_PCT>
+ <NOTES></NOTES>
+ <DISPLAY_BOIL_SIZE>28.00 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_BATCH_SIZE>25.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_TUN_VOLUME>22.60 l</DISPLAY_TUN_VOLUME>
+ <DISPLAY_TUN_WEIGHT>9.30 kg</DISPLAY_TUN_WEIGHT>
+ <DISPLAY_TOP_UP_WATER>0.00 l</DISPLAY_TOP_UP_WATER>
+ <DISPLAY_TRUB_CHILLER_LOSS>2.50 l</DISPLAY_TRUB_CHILLER_LOSS>
+ <DISPLAY_LAUTER_DEADSPACE>7.00 l</DISPLAY_LAUTER_DEADSPACE>
+ <DISPLAY_TOP_UP_KETTLE>0.00 l</DISPLAY_TOP_UP_KETTLE>
+</EQUIPMENT>
+
+ <MASH>
+ <NAME>GF: Single Infusion, 67 C</NAME>
+ <VERSION>1</VERSION>
+ <GRAIN_TEMP>22.2222222</GRAIN_TEMP>
+ <TUN_TEMP>22.2222222</TUN_TEMP>
+ <SPARGE_TEMP>76.0000000</SPARGE_TEMP>
+ <PH>5.4000000</PH>
+ <TUN_WEIGHT>328.0479024</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+ <NOTES></NOTES>
+ <DISPLAY_GRAIN_TEMP>22.2 C</DISPLAY_GRAIN_TEMP>
+ <DISPLAY_TUN_TEMP>22.2 C</DISPLAY_TUN_TEMP>
+ <DISPLAY_SPARGE_TEMP>76.0 C</DISPLAY_SPARGE_TEMP>
+ <DISPLAY_TUN_WEIGHT>9.30 kg</DISPLAY_TUN_WEIGHT>
+<MASH_STEPS>
+<MASH_STEP>
+ <NAME>Mash In</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>15.2567252</INFUSE_AMOUNT>
+ <STEP_TIME>60.0000000</STEP_TIME>
+ <STEP_TEMP>67.0000000</STEP_TEMP>
+ <RAMP_TIME>0.0000000</RAMP_TIME>
+ <END_TEMP>67.0000000</END_TEMP>
+ <DESCRIPTION>Add 22,26 l of water at 71,3 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>2,700 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>71.3 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>67.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>22.26 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Mash Out</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Temperature</TYPE>
+ <INFUSE_AMOUNT>-0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>10.0000000</STEP_TIME>
+ <STEP_TEMP>76.0000000</STEP_TEMP>
+ <RAMP_TIME>10.0000000</RAMP_TIME>
+ <END_TEMP>76.0000000</END_TEMP>
+ <DESCRIPTION>Heat to 76,0 C over 10 min</DESCRIPTION>
+ <WATER_GRAIN_RATIO>3,939 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>76.0 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>76.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+</MASH_STEPS>
+
+</MASH>
+
+ <NOTES>300g risskall som fuktes f&#248;r det blandes med resten av mesken.
+
+CaSO4 (meskevann): 3,76 gram / 0,9 str&#248;ken teskje
+CaCl2 (meskevann): 1,88 gram / 0,6 str&#248;ken teskje
+
+CaSO4 (skyllevann): 3,46 gram / 0,9 str&#248;ken teskje
+CaCl2 (skyllevann): 1,73 gram / 0,5 str&#248;ken teskje
+
+Skulle egentlig bruke 280 g med Munich Light men hadde kun 77 g. Resten ble erstattet med vanlig Munich.
+</NOTES>
+ <TASTE_NOTES></TASTE_NOTES>
+ <TASTE_RATING>30.0000000</TASTE_RATING>
+ <OG>1.0520000</OG>
+ <FG>1.0100000</FG>
+ <CARBONATION>3.0000000</CARBONATION>
+ <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+ <PRIMARY_AGE>10.0000000</PRIMARY_AGE>
+ <PRIMARY_TEMP>20.0000000</PRIMARY_TEMP>
+ <SECONDARY_AGE>10.0000000</SECONDARY_AGE>
+ <SECONDARY_TEMP>22.0000000</SECONDARY_TEMP>
+ <TERTIARY_AGE>7.0000000</TERTIARY_AGE>
+ <AGE>28.0000000</AGE>
+ <AGE_TEMP>12.0000000</AGE_TEMP>
+ <CARBONATION_USED>Bottle with 181,90 g Table Sugar</CARBONATION_USED>
+ <FORCED_CARBONATION>TRUE</FORCED_CARBONATION>
+ <PRIMING_SUGAR_NAME>Table Sugar</PRIMING_SUGAR_NAME>
+ <PRIMING_SUGAR_EQUIV>0.9099181</PRIMING_SUGAR_EQUIV>
+ <KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
+ <CARBONATION_TEMP>21.1111111</CARBONATION_TEMP>
+ <DISPLAY_CARB_TEMP>21.1 C</DISPLAY_CARB_TEMP>
+ <DATE>25/06/17</DATE>
+ <EST_OG>1.052 SG</EST_OG>
+ <EST_FG>1.014 SG</EST_FG>
+ <EST_COLOR>7.7 EBC</EST_COLOR>
+ <IBU>20.0 IBUs</IBU>
+ <IBU_METHOD>Tinseth</IBU_METHOD>
+ <EST_ABV>5.0 %</EST_ABV>
+ <ABV>5.5 %</ABV>
+ <ACTUAL_EFFICIENCY>73.2 %</ACTUAL_EFFICIENCY>
+ <CALORIES>484.7 kcal/l</CALORIES>
+ <DISPLAY_BATCH_SIZE>25.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_BOIL_SIZE>28.00 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_OG>1.052 SG</DISPLAY_OG>
+ <DISPLAY_FG>1.010 SG</DISPLAY_FG>
+ <DISPLAY_PRIMARY_TEMP>20.0 C</DISPLAY_PRIMARY_TEMP>
+ <DISPLAY_SECONDARY_TEMP>22.0 C</DISPLAY_SECONDARY_TEMP>
+ <DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
+ <DISPLAY_AGE_TEMP>12.0 C</DISPLAY_AGE_TEMP>
+</RECIPE>
+</RECIPES>

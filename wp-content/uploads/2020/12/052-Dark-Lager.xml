@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<RECIPE>
+ <NAME>052 - Dark Lager</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>All Grain</TYPE>
+ <BREWER>Dan</BREWER>
+ <ASST_BREWER></ASST_BREWER>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <BOIL_SIZE>31.0000000</BOIL_SIZE>
+ <BOIL_TIME>90.0000000</BOIL_TIME>
+ <EFFICIENCY>73.0000000</EFFICIENCY>
+ <HOPS>
+<HOP>
+ <NAME>Hallertauer Hersbrucker</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>Germany</ORIGIN>
+ <ALPHA>3.0000000</ALPHA>
+ <AMOUNT>0.0649999</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>85.0000000</TIME>
+ <NOTES>Used for: German style lagers and wheat beers
+Aroma: Noble, pleasant, clean flavor
+Substitutes: Mt. Hood, Liberty, Hallertauer, Mittelfrueh
+Examples: Wheathook Wheaten Ale</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>6.0000000</BETA>
+ <HSI>25.0000000</HSI>
+ <DISPLAY_AMOUNT>65.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>85.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Hallertauer Hersbrucker</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>Germany</ORIGIN>
+ <ALPHA>3.0000000</ALPHA>
+ <AMOUNT>0.0200000</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>20.0000000</TIME>
+ <NOTES>Used for: German style lagers and wheat beers
+Aroma: Noble, pleasant, clean flavor
+Substitutes: Mt. Hood, Liberty, Hallertauer, Mittelfrueh
+Examples: Wheathook Wheaten Ale</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>6.0000000</BETA>
+ <HSI>25.0000000</HSI>
+ <DISPLAY_AMOUNT>20.00 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+</HOP>
+</HOPS>
+
+ <FERMENTABLES>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU PILSEN 2RS</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>2.9493508</AMOUNT>
+ <YIELD>81.0000000</YIELD>
+ <COLOR>2.9550000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: The lightest coloured Belgian malt. Produced from the finest European
+malting barley varieties. Kilned at up to 80 - 85&#176;C.
+
+Characteristics: The lightest in colour, this malt is well modified and can be easily
+mashed with a single-temperature infusion. Our Ch&#226;teau Pilsen malt carries a
+strong, sweet malt flavour and contains enough enzymatic power to be used as base
+malt.
+
+Usage: All beer types 
+
+%:  Up to 100% of the mix
+
+2.5 &#8211; 3.5 EBC (European Brewing Convention)
+1.5 &#8211; 1.9&#176;L (Lovibond)
+
+Moisture % 4.5
+
+Extract (dry basis) % 81.0
+
+Difference fine &#8211; coarse % 1.5-2.5
+
+Wort colour EBC (&#176;L) 3.5 (1.9)
+
+Post coloration EBC (&#176;L) 4.0 (2.1)- 6.0 (2.8)
+
+Total Protein (dry malt) % 11.2
+
+Soluble protein % 3.5-4.4
+
+Kolbach Index % 35.0-45.0
+
+Hartong 45&#176; % 34.0-43.0
+
+Viscosity cp 1.6
+
+Ph 5.6-6.0
+
+Diastatic power WK 250
+
+Friability % 81.0
+
+Glassiness (whole grains) % 2.5
+
+PDMS 5.0
+
+NDMA ppb 2.5
+
+Filtration normal
+
+Saccharification time min 15
+
+Clarity of wort clear
+
+
+</NOTES>
+ <COARSE_FINE_DIFF>2.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>250.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.2000000</PROTEIN>
+ <MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>2.95 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0372600</POTENTIAL>
+ <DISPLAY_COLOR>3.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU MUNICH</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>1.7696105</AMOUNT>
+ <YIELD>80.0000000</YIELD>
+ <COLOR>24.9993000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>25 EBC (European Brewing Convention)
+
+Features: Belgian specialty malt of M&#252;nich type. Kilned up to 100-105&#176;C.
+
+Characteristics: Rich, golden malt. Provides a modest colour increase toward a nice,
+golden-orange colour. Adds a pronounced grainy malty flavour to many beer styles
+without affecting the foam stability and body. Is also used in small quantities in
+combination with Ch&#226;teau Pilsen 2RS to produce light colour beers, improving the
+malty flavour and giving the beer a richer colour. Enhances the taste of character
+beers.
+
+Usage: Pale ale, amber, brown, strong and dark beers, bocks
+
+%: Up to 60% of the mix
+
+Moisture % 4.5
+
+Extract (dry basis) % 80.0
+
+Wort colour EBC (&#176;L) 21.0 (8.4) 28.0 (11.1)
+
+Total Protein (dry malt) % 11.5
+
+Clarity of wort % clear
+
+</NOTES>
+ <COARSE_FINE_DIFF>2.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>100.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.5000000</PROTEIN>
+ <MAX_IN_BATCH>60.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>1.77 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0368000</POTENTIAL>
+ <DISPLAY_COLOR>25.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU CARA GOLD&#174;</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.8848052</AMOUNT>
+ <YIELD>78.0000000</YIELD>
+ <COLOR>119.9927000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: A dark Belgian caramel-style malt. High temperature of germination.
+Taste development at up to 220&#176;C, intense aroma.
+
+Characteristics: Ch&#226;teau Cara Gold&#174; malt imparts a strong caramel-sweet aroma
+and unique toffee-like flavour, adding a rich amber colour to beer. A
+distinguishing characteristic of all caramel malts is glassiness. This glassy
+endosperm creates the desirable non-fermentable components that give true
+caramel malt the ability to contribute mouthfeel, head, head retention, and
+extended beer stability.
+
+Usage: Brown and dark beers.
+
+120 EBC  (European Brewing Convention)
+45.6&#176;L (Lovibond)
+
+%: Up to 20% of the mix 
+
+Moisture % 8.0
+
+Extract (dry basis) % 78.0
+
+Wort colour EBC (&#176;L) 110.0 (41.8) 130.0 (49.3)
+
+Saccharification time min normal
+</NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>8.0000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>0.0000000</PROTEIN>
+ <MAX_IN_BATCH>20.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.88 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0358800</POTENTIAL>
+ <DISPLAY_COLOR>120.0 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>CH&#194;TEAU ROASTED BARLEY</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.1499999</AMOUNT>
+ <YIELD>65.0000000</YIELD>
+ <COLOR>1200.9120000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER>Castle Malting&#174;</SUPPLIER>
+ <NOTES>Features: Raw roasted barley. Torrefied up to 230 &#186;C. The length of roasting time determines the darkness of the grain.
+
+Characteristics: Ch&#226;teau Roasted Barley is a highly roasted barley that imparts a burnt, grainy, coffee-like flavor to your beer. It has many characteristics of Ch&#226;teau Black malt, though it is far more complex. It actually has some starch that can be converted during the mash, thus impacting the specific gravity. Ch&#226;teau Roasted Barley will also lend to the sweetness to the beer. If compared to Ch&#226;teau Chocolat and Ch&#226;teau Black malts, roasted barley produces the lightest colored head. Imparts a deep red mahogany color to beer and very strong roasted flavor. Gives dryness to Porters and Stouts.
+
+Usage: Stouts, Porters, Nut Brown Ales and other dark beer styles. 2-4% in Brown ales, or 3-10% in Porters and Stouts.
+
+1200 EBC (European Brewing Convention)
+450.6&#176;L (Lovibond)
+
+Moisture % 4.5
+
+Extract (dry basis) % 65.0
+
+Wortcolour EBC (&#176;L) 1000 (375.6)
+                                     1300 (488.1)</NOTES>
+ <COARSE_FINE_DIFF>0.0000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.5000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>0.0000000</PROTEIN>
+ <MAX_IN_BATCH>5.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.15 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0299000</POTENTIAL>
+ <DISPLAY_COLOR>1200.9 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+</FERMENTABLES>
+
+ 
+ <YEASTS>
+<YEAST>
+ <NAME>Old Bavarian Lager</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Lager</TYPE>
+ <FORM>Liquid</FORM>
+ <AMOUNT>0.0354884</AMOUNT>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <LABORATORY>White Labs</LABORATORY>
+ <PRODUCT_ID>WLP920</PRODUCT_ID>
+ <MIN_TEMPERATURE>10.0000000</MIN_TEMPERATURE>
+ <MAX_TEMPERATURE>12.7777778</MAX_TEMPERATURE>
+ <FLOCCULATION>Medium</FLOCCULATION>
+ <ATTENUATION>69.5000000</ATTENUATION>
+ <NOTES>Southern Germany/Bavarian lager yeast.  Finishes malty with a slight ester profile.</NOTES>
+ <BEST_FOR>Oktoberfest, Marzen, Bock and Dark Lagers.</BEST_FOR>
+ <MAX_REUSE>5</MAX_REUSE>
+ <TIMES_CULTURED>0</TIMES_CULTURED>
+ <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+ <DISPLAY_AMOUNT>35.49 ml</DISPLAY_AMOUNT>
+ <DISP_MIN_TEMP>10.0 C</DISP_MIN_TEMP>
+ <DISP_MAX_TEMP>12.8 C</DISP_MAX_TEMP>
+ <INVENTORY>0.0 pkg</INVENTORY>
+ <CULTURE_DATE>12/06/03</CULTURE_DATE>
+</YEAST>
+</YEASTS>
+
+ 
+ <STYLE>
+ <NAME>International Dark Lager</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>International Lager</CATEGORY>
+ <CATEGORY_NUMBER>2</CATEGORY_NUMBER>
+ <STYLE_LETTER>C</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2015</STYLE_GUIDE>
+ <TYPE>Lager</TYPE>
+ <OG_MIN>1.0440000</OG_MIN>
+ <OG_MAX>1.0560000</OG_MAX>
+ <FG_MIN>1.0080000</FG_MIN>
+ <FG_MAX>1.0120000</FG_MAX>
+ <IBU_MIN>8.0000000</IBU_MIN>
+ <IBU_MAX>20.0000000</IBU_MAX>
+ <COLOR_MIN>27.5800000</COLOR_MIN>
+ <COLOR_MAX>43.3400000</COLOR_MAX>
+ <CARB_MIN>2.4000000</CARB_MIN>
+ <CARB_MAX>3.0000000</CARB_MAX>
+ <ABV_MAX>6.0000000</ABV_MAX>
+ <ABV_MIN>4.2000000</ABV_MIN>
+ <NOTES>A darker and somewhat sweeter version of international pale lager with a little more body and flavor, but equally restrained in bitterness. The low bitterness leaves the malt as the primary flavor element, and the low hop levels provide very little in the way of balance. History: Darker versions of International Pale Lagers often created by the same large, industrial breweries and meant to appeal to a broad audience. Often either a colored or sweetened adaptation of the standard pale industrial lager, or a more broadly accessible (and inexpensive) version of more traditional dark lagers. Style Comparison: Less flavor and richness than Munich Dunkel, Schwarzbier, or other dark lagers. Frequently uses adjuncts, as is typical of other International Lagers.</NOTES>
+ <PROFILE>Aroma: Little to no malt aroma; may have a light corn character. Medium-low to no roast and caramel malt aroma. Hop aroma may range from none to light spicy or floral hop presence. While a clean fermentation profile is generally most desirable, low levels of yeast character (such as a light apple fruitiness) are not a fault. A light amount of DMS or corn aroma is not a fault. Appearance: Deep amber to dark brown with bright clarity and ruby highlights. Foam stand may not be long lasting, and is beige to light tan in color.
+Flavor: Low to medium malty sweetness with medium-low to no caramel and/or roasted malt flavors (and may include hints of coffee, molasses or cocoa). Hop flavor ranges from none to low levels, and is typically floral, spicy, or herbal. Low to medium hop bitterness. May have a very light fruitiness. Moderately crisp finish. The balance is typically somewhat malty. Burnt or moderately strong roasted malt flavors are a defect. 
+Mouthfeel: Light to medium-light body. Smooth with a light creaminess. Medium to high carbonation. Comments: A broad range of international lagers that are darker than pale, and not assertively bitter and/or roasted. </PROFILE>
+ <INGREDIENTS>Two- or six-row barley, corn, rice, or sugars as adjuncts. Light use of caramel and darker malts. Commercial versions may use coloring agents.</INGREDIENTS>
+ <EXAMPLES>Baltika #4 Original, Devils Backbone Old Virginia Dark, Dixie Blackened Voodoo, Saint Pauli Girl Dark, San Miguel Dark, Session Black Dark Lager, Shiner Bock</EXAMPLES>
+ <DISPLAY_OG_MIN>1.044 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.056 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.008 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.012 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>27.6 EBC</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>43.3 EBC</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1,044-1,056 SG</OG_RANGE>
+ <FG_RANGE>1,008-1,012 SG</FG_RANGE>
+ <IBU_RANGE>8,0-20,0 IBUs</IBU_RANGE>
+ <CARB_RANGE>2,40-3,00 Vols</CARB_RANGE>
+ <COLOR_RANGE>27,6-43,3 EBC</COLOR_RANGE>
+ <ABV_RANGE>4,20-6,00 %</ABV_RANGE>
+</STYLE>
+
+ <EQUIPMENT>
+ <NAME>Grainfather</NAME>
+ <VERSION>1</VERSION>
+ <BOIL_SIZE>31.0000000</BOIL_SIZE>
+ <BATCH_SIZE>25.0000000</BATCH_SIZE>
+ <TUN_VOLUME>22.6000000</TUN_VOLUME>
+ <TUN_WEIGHT>9.2999940</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <TOP_UP_WATER>0.0000000</TOP_UP_WATER>
+ <TRUB_CHILLER_LOSS>2.5000000</TRUB_CHILLER_LOSS>
+ <EVAP_RATE>8.0645161</EVAP_RATE>
+ <BOIL_TIME>90.0000000</BOIL_TIME>
+ <CALC_BOIL_VOLUME>FALSE</CALC_BOIL_VOLUME>
+ <LAUTER_DEADSPACE>7.0000000</LAUTER_DEADSPACE>
+ <TOP_UP_KETTLE>0.0000000</TOP_UP_KETTLE>
+ <HOP_UTILIZATION>100.0000000</HOP_UTILIZATION>
+ <COOLING_LOSS_PCT>4.0000000</COOLING_LOSS_PCT>
+ <NOTES></NOTES>
+ <DISPLAY_BOIL_SIZE>31.00 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_BATCH_SIZE>25.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_TUN_VOLUME>22.60 l</DISPLAY_TUN_VOLUME>
+ <DISPLAY_TUN_WEIGHT>9.30 kg</DISPLAY_TUN_WEIGHT>
+ <DISPLAY_TOP_UP_WATER>0.00 l</DISPLAY_TOP_UP_WATER>
+ <DISPLAY_TRUB_CHILLER_LOSS>2.50 l</DISPLAY_TRUB_CHILLER_LOSS>
+ <DISPLAY_LAUTER_DEADSPACE>7.00 l</DISPLAY_LAUTER_DEADSPACE>
+ <DISPLAY_TOP_UP_KETTLE>0.00 l</DISPLAY_TOP_UP_KETTLE>
+</EQUIPMENT>
+
+ <MASH>
+ <NAME>GF: Single Infusion, 66 C</NAME>
+ <VERSION>1</VERSION>
+ <GRAIN_TEMP>22.2222222</GRAIN_TEMP>
+ <TUN_TEMP>22.2222222</TUN_TEMP>
+ <SPARGE_TEMP>76.0000000</SPARGE_TEMP>
+ <PH>5.4000000</PH>
+ <TUN_WEIGHT>328.0479024</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+ <NOTES></NOTES>
+ <DISPLAY_GRAIN_TEMP>22.2 C</DISPLAY_GRAIN_TEMP>
+ <DISPLAY_TUN_TEMP>22.2 C</DISPLAY_TUN_TEMP>
+ <DISPLAY_SPARGE_TEMP>76.0 C</DISPLAY_SPARGE_TEMP>
+ <DISPLAY_TUN_WEIGHT>9.30 kg</DISPLAY_TUN_WEIGHT>
+<MASH_STEPS>
+<MASH_STEP>
+ <NAME>Mash In</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>15.5351793</INFUSE_AMOUNT>
+ <STEP_TIME>60.0000000</STEP_TIME>
+ <STEP_TEMP>66.0000000</STEP_TEMP>
+ <RAMP_TIME>0.0000000</RAMP_TIME>
+ <END_TEMP>66.0000000</END_TEMP>
+ <DESCRIPTION>Add 22,54 l of water at 70,2 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>2,700 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>70.2 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>66.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>22.54 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Mash Out</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Temperature</TYPE>
+ <INFUSE_AMOUNT>-0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>10.0000000</STEP_TIME>
+ <STEP_TEMP>76.0000000</STEP_TEMP>
+ <RAMP_TIME>10.0000000</RAMP_TIME>
+ <END_TEMP>76.0000000</END_TEMP>
+ <DESCRIPTION>Heat to 76,0 C over 10 min</DESCRIPTION>
+ <WATER_GRAIN_RATIO>3,917 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>76.0 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>76.0 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+</MASH_STEPS>
+
+</MASH>
+
+ <NOTES>50% Weyermann Floor-Malted Bohemian Pilsner Malt @ 1.8 &#176;L 
+30% Weyermann Munich I @ 6 &#176;L 
+15% Weyermann CaraMunich&#174; II @ 45.5 &#176;L 
+5% Weyermann Carafa&#174; II @ 45.5 &#176;L (at sparge)
+
+3.9 oz (110 g) Saaz @ 4.5% AA (10 minutes into the boil)
+3.9 oz (110 g) Saaz @ 4.5% AA (20 minutes into the boil)
+4.3 oz (122 g) Saaz @ 4.5% AA (115 minutes into the boil)
+
+I  double-checked my notes from that distant brew day. You are, indeed, correct. I transferred the wrong amount of Carafa&#174; II. It should have been 1.5%, not 5%, of the grain bill. That brings the color value down to roughly 22 SRM. This is a typo in my spreadsheet. My recipe was verified by Ivan Chramosil before publication and he, unfortunately, did not catch my error either. Sorry, but &#8220;events occur.&#8221;</NOTES>
+ <TASTE_NOTES></TASTE_NOTES>
+ <TASTE_RATING>30.0000000</TASTE_RATING>
+ <OG>1.0510000</OG>
+ <FG>1.0190000</FG>
+ <CARBONATION>2.3000000</CARBONATION>
+ <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+ <PRIMARY_AGE>14.0000000</PRIMARY_AGE>
+ <PRIMARY_TEMP>10.0000000</PRIMARY_TEMP>
+ <SECONDARY_AGE>3.0000000</SECONDARY_AGE>
+ <SECONDARY_TEMP>17.0000000</SECONDARY_TEMP>
+ <TERTIARY_AGE>7.0000000</TERTIARY_AGE>
+ <AGE>28.0000000</AGE>
+ <AGE_TEMP>3.0000000</AGE_TEMP>
+ <CARBONATION_USED>Keg with 86,48 KPA</CARBONATION_USED>
+ <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
+ <PRIMING_SUGAR_NAME>Forced Carbonation</PRIMING_SUGAR_NAME>
+ <PRIMING_SUGAR_EQUIV>1.0000000</PRIMING_SUGAR_EQUIV>
+ <KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
+ <CARBONATION_TEMP>7.2222222</CARBONATION_TEMP>
+ <DISPLAY_CARB_TEMP>7.2 C</DISPLAY_CARB_TEMP>
+ <DATE>24/04/16</DATE>
+ <EST_OG>1.051 SG</EST_OG>
+ <EST_FG>1.014 SG</EST_FG>
+ <EST_COLOR>44.3 EBC</EST_COLOR>
+ <IBU>23.3 IBUs</IBU>
+ <IBU_METHOD>Tinseth</IBU_METHOD>
+ <EST_ABV>4.9 %</EST_ABV>
+ <ABV>4.2 %</ABV>
+ <ACTUAL_EFFICIENCY>67.4 %</ACTUAL_EFFICIENCY>
+ <CALORIES>487.3 kcal/l</CALORIES>
+ <DISPLAY_BATCH_SIZE>25.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_BOIL_SIZE>31.00 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_OG>1.051 SG</DISPLAY_OG>
+ <DISPLAY_FG>1.019 SG</DISPLAY_FG>
+ <DISPLAY_PRIMARY_TEMP>10.0 C</DISPLAY_PRIMARY_TEMP>
+ <DISPLAY_SECONDARY_TEMP>17.0 C</DISPLAY_SECONDARY_TEMP>
+ <DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
+ <DISPLAY_AGE_TEMP>3.0 C</DISPLAY_AGE_TEMP>
+</RECIPE>
+</RECIPES>
